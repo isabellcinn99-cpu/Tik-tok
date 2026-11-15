@@ -1,7 +1,7 @@
 # Skript 01 – Skorpion: eiskalt nach dem Streit
 
 - **Thema:** Warum wird ein Skorpion nach einem Streit plötzlich eiskalt – und vergisst trotzdem nie etwas?
-- **Länge:** ~38 s · **97 Wörter** · ~2,55 Wörter/s
+- **Länge:** ~38 s · **98 Wörter** · ~2,55 Wörter/s
 - **Struktur (Vorgabe der Creatorin):** Frage in den ersten 2 s → Wendung bei ~15 s → Auflösung erst ganz am Ende → Loop zurück zum Anfang
 - **Psychologie-Begriff:** Abwehrmechanismus
 
@@ -19,7 +19,7 @@
 | 2,3–6,2 | Wiedererkennung | Nach einem Streit: kein Wort. Kein Blick. Als wärst du fremd. |
 | 6,2–10,5 | Wiedererkennung (Paradox) | Und trotzdem weiß er Jahre später noch jedes Wort von dir. |
 | 10,5–14,0 | Missverständnis | Alle denken: Er ist nachtragend. Er will dich bestrafen. |
-| 14,0–18,3 | **Wendung** | Aber das Gegenteil ist wahr: Die Kälte gilt gar nicht dir. |
+| 14,0–18,7 | **Wendung** | Doch das Eis ist nicht für dich gedacht – sondern für ihn selbst. |
 | 18,3–22,6 | Spannung | Ein Skorpion fühlt im Streit oft mehr als jeder andere im Raum. |
 | 22,6–26,9 | Mikro-Haken | Und genau dann passiert in ihm etwas, das du nie siehst. |
 | 26,9–30,4 | **Auflösung** | Er legt einen Schalter um: Gefühle aus, Gedächtnis an. |
@@ -27,9 +27,9 @@
 | 34,3–38,0 | **Punchline / Loop** | Die Kälte ist keine Strafe. Sie ist seine Rüstung. |
 
 **Gesamttext am Stück (für Voiceover/TTS):**
-> Warum wird ein Skorpion plötzlich eiskalt? Nach einem Streit: kein Wort. Kein Blick. Als wärst du fremd. Und trotzdem weiß er Jahre später noch jedes Wort von dir. Alle denken: Er ist nachtragend. Er will dich bestrafen. Aber das Gegenteil ist wahr: Die Kälte gilt gar nicht dir. Ein Skorpion fühlt im Streit oft mehr als jeder andere im Raum. Und genau dann passiert in ihm etwas, das du nie siehst. Er legt einen Schalter um: Gefühle aus, Gedächtnis an. Ein Abwehrmechanismus – damit ihn dieselbe Wunde nie wieder trifft. Die Kälte ist keine Strafe. Sie ist seine Rüstung.
+> Warum wird ein Skorpion plötzlich eiskalt? Nach einem Streit: kein Wort. Kein Blick. Als wärst du fremd. Und trotzdem weiß er Jahre später noch jedes Wort von dir. Alle denken: Er ist nachtragend. Er will dich bestrafen. Doch das Eis ist nicht für dich gedacht – sondern für ihn selbst. Ein Skorpion fühlt im Streit oft mehr als jeder andere im Raum. Und genau dann passiert in ihm etwas, das du nie siehst. Er legt einen Schalter um: Gefühle aus, Gedächtnis an. Ein Abwehrmechanismus – damit ihn dieselbe Wunde nie wieder trifft. Die Kälte ist keine Strafe. Sie ist seine Rüstung.
 
-**Stimme:** ruhig, tief, leicht mysteriös. Kurze Betonungspause (max. 0,3 s) nur vor „Aber das Gegenteil ist wahr“ und vor „Sie ist seine Rüstung“. Musik: dunkles Ambient-Pad, leiser „Whoosh“ und Licht-Flash auf der Wendung.
+**Stimme:** ruhig, tief, leicht mysteriös. Kurze Betonungspause (max. 0,3 s) nur vor „sondern für ihn selbst“ und vor „Sie ist seine Rüstung“. Musik: dunkles Ambient-Pad, leiser „Whoosh“ und Licht-Flash auf der Wendung.
 
 ## Shotlist / Storyboard
 
@@ -44,8 +44,8 @@ Farbwelt: Mitternachtsblau/Violett, Akzent **Gold**. Hauptfigur: gesichtslose, l
 | 8,5–10,5 | … noch jedes Wort von dir. | Leuchtende Sprechblasen-Fragmente schweben in den Kopf der Figur und werden dort in goldenen Regalen abgelegt. | JEDES WORT |
 | 10,5–12,3 | Alle denken: Er ist nachtragend. | Gruppe von Figuren zeigt mit Fingern auf ihn, HUD-Label „NACHTRAGEND“ blinkt. | NACHTRAGEND |
 | 12,3–14,0 | Er will dich bestrafen. | Eis-Mauer schießt zwischen den beiden Figuren hoch. | BESTRAFEN |
-| 14,0–16,0 | Aber das Gegenteil ist wahr: | **Wendung:** greller Gold-Flash, Kamera-Stopp, Farbwechsel von kaltem Blau zu warmem Violett. | GEGENTEIL |
-| 16,0–18,3 | Die Kälte gilt gar nicht dir. | Kamera fährt durch die Eis-Mauer hindurch – dahinter: die Figur zusammengekauert. | NICHT DIR |
+| 14,0–16,2 | Doch das Eis ist nicht für dich gedacht – | **Wendung:** greller Gold-Flash, Kamera-Stopp, Farbwechsel von kaltem Blau zu warmem Violett. | EIS, NICHT FÜR DICH |
+| 16,2–18,7 | sondern für ihn selbst. | Kamera fährt durch die Eis-Mauer hindurch – dahinter: die Figur zusammengekauert, das Eis wölbt sich schützend um sie. | IHN SELBST |
 | 18,3–22,6 | Ein Skorpion fühlt im Streit oft mehr als jeder andere im Raum. | Röntgen-Blick in die Brust: Herz-Glow pulsiert immer schneller, rote Wellen breiten sich aus, die anderen Figuren im Raum bleiben ruhig. | MEHR |
 | 22,6–24,8 | Und genau dann passiert in ihm etwas, … | Kamera-Push-in auf den Kopf, Herzschlag-Sound. | GENAU DANN |
 | 24,8–26,9 | … das du nie siehst. | Tür im Kopf schließt sich vor der Kamera, kurzer Black-Glow. | NIE |

@@ -136,3 +136,5 @@ Liefere immer:
 5. Der Creatorin kurz zeigen, welche Regel neu ist bzw. sich geändert hat.
 
 **F1 (15.11.2026) – Nur die 12 Sternzeichen.** Die Zielgruppe versteht weder das ganze Horoskop noch Häusersysteme oder Platzierungen. Themen, Skripte und Bilder beziehen sich ausschließlich auf die 12 Sternzeichen (ein, max. zwei Zeichen pro Video). Keine Häuser, kein Aszendent/Mond, keine Planeten, Aspekte oder Transite. Die Psychologie (Bindungsstil, Projektion usw.) bleibt der Erklär-Teil. _Angepasst: Einleitung, §3 Schreibregeln, §5 Astro-Elemente, §10 Checkliste._
+
+**F2 (15.11.2026) – Themenlisten als Frage/Antwort-Tabelle.** Themenlisten immer als zweispaltige Tabelle liefern: links die Frage (inkl. Rang und ⭐ für die Top 5), rechts der **Kern der Antwort** in 1–2 einfachen, verständlichen Sätzen (keine Fachbegriff-Stichworte).

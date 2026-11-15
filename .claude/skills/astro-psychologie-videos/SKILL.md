@@ -1,11 +1,11 @@
 ---
 name: astro-psychologie-videos
-description: Regelwerk für den Faceless-TikTok-Account über Astrologische Psychologie (animierte Erklärvideos). Nutzen, wenn ein Skript, Hook, Storyboard, Shotlist, Bild-/Video-Prompt, Caption, Titel oder eine Videoidee für diesen Account entsteht oder überarbeitet wird – und immer, wenn die Creatorin Feedback zu einem Video gibt (dann zuerst den Skill erweitern).
+description: Regelwerk für den Faceless-TikTok-Account über Astrologische Psychologie der 12 Sternzeichen (animierte Erklärvideos). Nutzen, wenn ein Skript, Hook, Storyboard, Shotlist, Bild-/Video-Prompt, Caption, Titel oder eine Videoidee für diesen Account entsteht oder überarbeitet wird – und immer, wenn die Creatorin Feedback zu einem Video gibt (dann zuerst den Skill erweitern).
 ---
 
 # Astro-Psychologie – Video-Regelwerk
 
-Faceless-Account: Astrologie wird **psychologisch** erklärt (Verhalten, Muster, Gefühle hinter einem Zeichen, Planeten, Haus oder Aspekt) – in einfachen, animierten Videos.
+Faceless-Account: Die **12 Sternzeichen** werden **psychologisch** erklärt (Verhalten, Muster, Gefühle hinter einem Zeichen) – in einfachen, animierten Videos. Keine Häuser, Planeten-Platzierungen oder ganzen Horoskope (siehe Feedback-Regel F1).
 Grundlage: Analyse von drei Referenzvideos (@mindloop65, @neurozyklus, @tiefenseele), siehe `references/referenz-analyse.md`.
 
 > **Priorität:** Regeln aus `## Feedback-Regeln` (unten) schlagen immer die Grundregeln. Sie kommen direkt von der Creatorin.
@@ -54,6 +54,7 @@ Schreibregeln:
 - **Paradoxien und Kontraste** sind der Motor (fühlt viel ↔ wirkt kalt; redet mit allen ↔ niemand kennt sie).
 - **Konkrete Bilder statt Abstraktion** (Raucher riecht den Rauch an der eigenen Kleidung nicht; nachts im Bett die perfekte Antwort formulieren).
 - Einen **echten Psychologie-Begriff** pro Video nennen und in einem Satz erklären (z. B. Habituation, Bindungsstil, Projektion) – das gibt Autorität.
+- **Nur Sternzeichen** (Sonnenzeichen): Jedes Video dreht sich um **ein**, höchstens **zwei** Zeichen. Keine Häuser, kein Aszendent, kein Mond-Zeichen, keine Planeten, Aspekte oder Transite (z. B. „Merkur rückläufig“, „Saturn-Rückkehr“).
 - Astrologie nie als Schicksal formulieren, sondern als **Tendenz/Muster** („neigen dazu“, „oft“). Keine Diagnosen.
 - Das Video darf **nie früh auflösen** – die Kernwahrheit kommt erst nach dem Wendepunkt.
 
@@ -74,7 +75,7 @@ Alle drei Referenzen nutzen dasselbe System:
 - **Eine wiederkehrende, gesichtslose Hauptfigur** (leuchtende Silhouette/Strichfigur oder Wireframe-Mensch). Faceless passt zum Account und macht den Stil wiedererkennbar.
 - **Jedes Bild illustriert wörtlich den gerade gesprochenen Satz** (Satz „redet mit Fremden“ → Figur spricht mit anderer Figur; „kalt“ → Thermometer/Frost; „Geburtstag“ → Kalender-Kreis). Kein generischer B-Roll.
 - **Abstrakte Gefühle als einfache Symbole**: Mauer, Regenschirm, Herz-Glow, Gedankenblasen, Wellen/Ringe um die Figur, Zahnräder im Kopf.
-- **Astro-Elemente** dezent einbauen: Sternzeichen-Glyphe, Konstellation im Hintergrund, Planetenumlauf, Horoskop-Kreis – aber die **Figur bleibt im Zentrum**.
+- **Astro-Elemente** dezent einbauen: Sternzeichen-Glyphe, Konstellation des Zeichens im Hintergrund, Tierkreis-Ring – aber die **Figur bleibt im Zentrum**. Keine Horoskop-Grafiken mit Häusern oder Planeten.
 - Kleine **UI-/HUD-Elemente** (Karten, Statusbalken, Chat-Bubbles, „Scanning“-Labels) geben Tech-/Analyse-Gefühl und füllen leere Flächen.
 - KI-generierte Bilder/Videos sind ok, müssen aber als „AI-generated“ gekennzeichnet werden (TikTok-Regel).
 
@@ -119,6 +120,7 @@ Liefere immer:
 - [ ] Jede Szene illustriert den Satz wörtlich; Bildwechsel alle 1,5–3 s
 - [ ] 1-Wort-Untertitel, Schlüsselwörter farbig
 - [ ] Emotionaler Peak + CTA/offene Frage am Ende, kein Outro
+- [ ] Nur Sternzeichen – keine Häuser, Planeten, Aszendent/Mond, Transite
 - [ ] Astrologie als Tendenz, nicht als Schicksal
 - [ ] Alle Feedback-Regeln (unten) eingehalten
 
@@ -133,4 +135,4 @@ Liefere immer:
 4. Änderung committen und pushen, damit der Skill erhalten bleibt.
 5. Der Creatorin kurz zeigen, welche Regel neu ist bzw. sich geändert hat.
 
-_Noch kein Feedback eingetragen._
+**F1 (15.11.2026) – Nur die 12 Sternzeichen.** Die Zielgruppe versteht weder das ganze Horoskop noch Häusersysteme oder Platzierungen. Themen, Skripte und Bilder beziehen sich ausschließlich auf die 12 Sternzeichen (ein, max. zwei Zeichen pro Video). Keine Häuser, kein Aszendent/Mond, keine Planeten, Aspekte oder Transite. Die Psychologie (Bindungsstil, Projektion usw.) bleibt der Erklär-Teil. _Angepasst: Einleitung, §3 Schreibregeln, §5 Astro-Elemente, §10 Checkliste._

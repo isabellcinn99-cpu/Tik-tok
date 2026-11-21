@@ -105,6 +105,10 @@ Alle drei Referenzen nutzen dasselbe System:
 
 ## 9. Output-Format, wenn ein Video geplant wird
 
+**Gerüst:** `vorlagen/video-vorlage.md` (lebende Vorlage), **Muster-Beispiel:** `skripte/02-widder-ehrlich.md`. Neue Videos als `skripte/NN-zeichen-thema.md` speichern.
+
+**Neue Referenzbilder/-videos der Creatorin:** analysieren, Erkenntnisse in `references/referenz-analyse.md` festhalten, daraus abgeleitete Stilregeln als Feedback-Regel eintragen und die Vorlage anpassen (dort im Änderungsprotokoll vermerken). Danach committen und pushen.
+
 Liefere immer:
 1. **3 Hook-Varianten** (Muster 1–3 aus §2), Empfehlung markieren.
 2. **Skript** mit Zeitmarken und Block-Labels aus §3, Wortzahl am Ende.

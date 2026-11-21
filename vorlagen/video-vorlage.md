@@ -34,7 +34,7 @@ Ein [ZEICHEN]-Video, ca. [LÄNGE] Sekunden, [FORMAT], gesprochen von Clara. Kern
 3. Jedes Bild als Startbild animieren (Grok Imagine oder Higgsfield), 3–6 s pro Clip.
 4. In CapCut Audio und Clips zusammenschneiden, Wort-für-Wort-Untertitel und Musik dazu.
 
-> Wird über Higgsfield generiert: vorher Kosten mit `higgsfield generate cost …` ermitteln und die Freigabe der Creatorin abwarten (Skill, Regel F4).
+> Wird über Higgsfield generiert (Skill, Regel F4): vorher mit `higgsfield generate cost …` die Kosten ermitteln und der Creatorin Modell, Prompt/Einstellungen, **Credits pro Stück und gesamt** sowie den Kontostand zeigen. Erst nach ihrem „Ja“ generieren. Jeder neue Versuch und jede Änderung braucht eine neue Freigabe.
 
 ## Hook-Varianten
 
@@ -56,10 +56,12 @@ Formel: Hook mit Widerspruch → Wiedererkennung → psychologisches Warum → W
 
 **Szenen und Timing** (geschätzt bei Tempo 1,1; nach der Sprachaufnahme an die echte Tonspur anpassen):
 
-| # | Zeit | Gesprochen | Bild | Wort in [AKZENTFARBE] |
-|---|---|---|---|---|
-| 1 | 0,0–1,5 s | [SATZ] | [BILD] | [WORT] |
-| … | | | | |
+| # | Zeit | Block (Skill §3) | Gesprochen | Bild | Wort in [AKZENTFARBE] |
+|---|---|---|---|---|---|
+| 1 | 0,0–1,5 s | Hook | [SATZ] | [BILD] | [WORT] |
+| … | | | | | |
+
+**Wortzahl:** [ANZAHL] Wörter.
 
 Wird die Aufnahme zu lang: zuerst Tempo auf 1,15, dann Tonspur in CapCut auf 1,1x, dann [STREICHKANDIDAT: Satz + Szene] streichen.
 
@@ -160,7 +162,7 @@ Wichtigste Regel: **erst die Stimme, dann der Schnitt.** Jeder Schnitt sitzt auf
 **Beschreibung zum Posten:**
 
 ```
-[1 SATZ MIT NEUGIER-LÜCKE] #[zeichen] #sternzeichen #astrologie #psychologie #sternzeichen[zeichen]
+[1–2 SÄTZE MIT NEUGIER-LÜCKE] [FRAGE AN DIE ZUSCHAUER?] #[zeichen] #sternzeichen #astrologie #psychologie #sternzeichen[zeichen]
 ```
 
 Erster eigener Kommentar: „Welches Sternzeichen soll als Nächstes kommen?“
@@ -169,9 +171,12 @@ Erster eigener Kommentar: „Welches Sternzeichen soll als Nächstes kommen?“
 
 - [ ] Länge und Wortzahl passen zur Phase (F5)
 - [ ] Hook ≤ 2,5 s, Thema im ersten Wort/Frame
-- [ ] Wendepunkt vorhanden, Kernwahrheit erst danach
+- [ ] Wendepunkt vorhanden (Phase 1: ~13–16 s, Phase 2: 25–35 s), Kernwahrheit erst danach
+- [ ] Mikro-Haken alle 8–12 s („Doch …“, „Aber …“)
 - [ ] Ein Psychologie-Begriff, einfach erklärt
-- [ ] Jede Szene illustriert den Satz wörtlich
+- [ ] Jede Szene illustriert den Satz wörtlich; Bildwechsel alle 1,5–3 s
+- [ ] 1-Wort-Untertitel, Schlüsselwörter farbig
+- [ ] Emotionaler Peak + CTA/offene Frage am Ende, kein Outro
 - [ ] Nur Sternzeichen, Astrologie als Tendenz
 - [ ] Generierung nur nach Freigabe mit Credit-Angabe (F4)
 - [ ] Alle Feedback-Regeln eingehalten

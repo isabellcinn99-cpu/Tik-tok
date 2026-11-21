@@ -14,8 +14,11 @@ Grundlage: Analyse von drei Referenzvideos (@mindloop65, @neurozyklus, @tiefense
 
 ## 1. Format & Länge
 
-- **Länge: 55–70 s**, Ziel ~60–65 s. Alle drei Referenzen liegen da (52 s, 61 s, 66 s Sprechtext). Über 60 s = Creator-Rewards-fähig.
-- **Sprechtext: 130–170 Wörter** (≈ 2,4–2,7 Wörter/Sekunde). Lieber kürzen als hetzen.
+- **Länge nach Account-Phase (siehe F5):**
+  - **Phase 1 (unter 10.000 Follower): 25–30 s**, Sprechtext **65–80 Wörter**.
+  - **Phase 2 (ab 10.000 Follower): über 60 s**, Ziel 62–70 s, Sprechtext **150–175 Wörter** (Creator-Rewards-fähig, wie die Referenzen mit 52–66 s).
+  - Tempo ≈ 2,4–2,7 Wörter/Sekunde. Lieber kürzen als hetzen.
+- **Rhythmus: 5 Videos pro Woche.**
 - **Durchgehend Ton:** Voiceover + leiser Musik-/Ambient-Teppich. **Keine einzige Pause > 0,4 s** (die Referenzen haben null Stille).
 - Bildformat: Referenzen sind **16:9 (1024×576)** produziert. Standard für uns: **9:16 (1080×1920)** mit Motiv im mittleren Drittel; 16:9 nur, wenn die Creatorin es will.
 - Sprache: Deutsch (Du-Ansprache), außer anders gewünscht.
@@ -35,7 +38,7 @@ Regeln:
 
 ## 3. Skript-Dramaturgie (Spannungsbogen)
 
-Feste Struktur – die Zeitmarken sind Richtwerte für 60 s:
+Feste Struktur – die Zeitmarken sind Richtwerte für 60 s (Phase 2). In Phase 1 (25–30 s) alle Blöcke anteilig stauchen: Hook 0–2 s, Wiedererkennung bis ~8 s, Erklärung bis ~13 s, Wendepunkt ~13–16 s, Tiefe bis ~23 s, Peak + CTA bis 30 s.
 
 | Zeit | Block | Inhalt |
 |---|---|---|
@@ -113,8 +116,8 @@ Liefere immer:
 ## 10. Qualitäts-Checkliste
 
 - [ ] Thema im ersten Wort/Frame sichtbar, Hook ≤ 2,5 s
-- [ ] Länge 55–70 s, 130–170 Wörter
-- [ ] Wendepunkt-Satz zwischen 25–35 s vorhanden
+- [ ] Länge passt zur Phase: 25–30 s / 65–80 Wörter (Phase 1) bzw. über 60 s / 150–175 Wörter (Phase 2)
+- [ ] Wendepunkt-Satz vorhanden (Phase 1: ~13–16 s, Phase 2: 25–35 s)
 - [ ] Mikro-Haken alle 8–12 s
 - [ ] Ein Psychologie-Begriff, einfach erklärt
 - [ ] Jede Szene illustriert den Satz wörtlich; Bildwechsel alle 1,5–3 s
@@ -140,3 +143,7 @@ Liefere immer:
 **F2 (15.11.2026) – Themenlisten als Frage/Antwort-Tabelle.** Themenlisten immer als zweispaltige Tabelle liefern: links die Frage (inkl. Rang und ⭐ für die Top 5), rechts der **Kern der Antwort** in 1–2 einfachen, verständlichen Sätzen (keine Fachbegriff-Stichworte).
 
 **F3 (15.11.2026) – Wendungssatz ohne Floskel.** Der Satz an der Wendung darf keine austauschbare Standardformel sein („Aber das Gegenteil ist wahr“). Er soll das **Bild des Videos aufgreifen** (z. B. das Eis, die Mauer) und die Erwartung konkret umdrehen, ohne die Auflösung vorwegzunehmen. _Annahme: Grund des Feedbacks nicht genannt – bei Bedarf präzisieren._
+
+**F4 (21.11.2026) – Generierung nur nach Freigabe mit Credit-Angabe.** Kein Video (und auch kein anderes Credit-pflichtiges Ergebnis bei Higgsfield o. Ä., z. B. Bilder) wird erzeugt, bevor die Creatorin es ausdrücklich freigegeben hat. Vorher immer die Kosten mit `higgsfield generate cost …` ermitteln (kostet nichts) und ihr zeigen: Modell, Prompt/Einstellungen, **Credits pro Stück und gesamt** sowie den aktuellen Kontostand. Erst nach ihrem „Ja“ generieren. Eine Freigabe gilt nur für genau das gezeigte Vorhaben; Änderungen oder weitere Versuche brauchen eine neue Freigabe. _Annahme: Gilt auch für Bilder, da sie ebenfalls Credits kosten – bei Bedarf präzisieren._
+
+**F5 (21.11.2026) – Länge nach Wachstumsphase, 5 Videos pro Woche.** Ziel: 5 Videos pro Woche. Bis 10.000 Follower sind Videos **25–30 s** lang (65–80 Wörter), ab 10.000 Followern **über 1 Minute** (150–175 Wörter). _Angepasst: §1 Format & Länge, §3 Zeitmarken, §10 Checkliste (alt: 55–70 s / 130–170 Wörter für alle Videos)._

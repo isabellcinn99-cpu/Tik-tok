@@ -35,10 +35,10 @@ Leylas Kernthesen zu Mars:
 2. **Mars im Minus heißt Trägheit („ich will ja, aber nicht selbst, jemand anderes soll es machen“) und/oder Aggression und Bosheit.** Wer den Arsch nicht hochkriegt, hat einen Mars im Minus. [TG 2026-03-30](https://t.me/Leyla_Astro2/3448), [TG 2026-07-01](https://t.me/Leyla_Astro2/3783)
 3. **Ein schwacher oder nicht gelebter Mars zieht fremde Frechheit und Aggression an.** Die Aggression der anderen spiegelt dann deine eigene unrealisierte Aktivität. Deshalb gilt: im Lebensbereich des Mars-Hauses als Erste aktiv werden. „Handelt, und die Welt hört auf, eine Bedrohung für euch zu sein.“ [TG 2026-05-20](https://t.me/Leyla_Astro2/3619)
 4. **„Mars im Aspekt mit Planet X“ wirkt wie „Mars im Zeichen, das X beherrscht“.** Ein Mars-Venus-Aspekt entspricht also Mars im Stier bzw. in der Waage, ein Mars-Pluto-Aspekt Mars im Skorpion usw. [TG 2026-03-31, Bild 2](https://t.me/Leyla_Astro2/3454), [TG 2026-01-27, Bild 1](https://t.me/Leyla_Astro2/3162), [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2025-03-25](https://t.me/Leyla_Astro2/2479)
-5. **Es gibt keine guten oder schlechten Mars-Stellungen.** Mars im Widder (Domizil) kann „einen Scheiß tun“, und Mars in der Waage (Exil) ist nicht die schlechteste Stellung. Entscheidend ist, ob der Planet mit seinem Zeichen „befreundet“ ist und richtig „genährt“ wird. [TG 2024-10-11](https://t.me/Leyla_Astro2/1845), [TG 2025-02-15](https://t.me/Leyla_Astro2/2358), [TG 2026-08-20](https://t.me/Leyla_Astro2/4006), [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-07-14](https://t.me/Leyla_Astro2/3888), [TG 2026-10-09](https://t.me/Leyla_Astro2/4134)
+5. **Es gibt keine guten oder schlechten Mars-Stellungen.** Mars im Widder (Domizil) kann „einen Scheiß tun“, und Mars in der Waage ist „entgegen der verbreiteten Meinung“ nicht die schlechteste Stellung. Entscheidend ist, ob der Planet mit seinem Zeichen „befreundet“ ist und richtig „genährt“ wird. [TG 2024-10-11](https://t.me/Leyla_Astro2/1845), [TG 2025-02-15](https://t.me/Leyla_Astro2/2358), [TG 2026-08-20](https://t.me/Leyla_Astro2/4006), [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-07-14](https://t.me/Leyla_Astro2/3888), [TG 2026-10-09](https://t.me/Leyla_Astro2/4134)
 6. **Jedes Mars-Zeichen hat seine eigene Motivation**, vom Lob (Löwe) über Geld (Stier) bis zur Krise („wenn der Arsch brennt“, Skorpion). [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 1](https://t.me/Leyla_Astro2/3454)
 7. **In der Frauenkarte zeigen Sonne und Mars das Bild des Mannes:** nach der Sonne wählt die Frau den Ehemann, nach Mars den Mann „für die Seele“ bzw. den Mann, solange man nur datet. [TG 2023-01-20](https://t.me/Leyla_Astro2/5), [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-07-15](https://t.me/Leyla_Astro2/2842), [TG 2026-04-11](https://t.me/Leyla_Astro2/3508)
-8. **„Marsianerinnen“** (Sonne, Mond oder Venus im Widder oder im Aspekt mit Mars) wollen immer mehr als alle anderen, machen alles selbst und „töten in 99 % der Fälle den Mann im Partner“. [TG 2024-08-20](https://t.me/Leyla_Astro2/1600), [TG 2024-11-02](https://t.me/Leyla_Astro2/1946), [TG 2024-12-10](https://t.me/Leyla_Astro2/2116)
+8. **„Marsianerinnen“** (Sonne, Mond oder Venus im Widder oder im Aspekt mit Mars) wollen immer mehr als alle anderen und machen alles selbst [TG 2024-12-10](https://t.me/Leyla_Astro2/2116), [TG 2024-11-02](https://t.me/Leyla_Astro2/1946). Im engeren Sinn, also bei Opposition oder Konjunktion von Mars mit Sonne/Mond (manchmal Venus) oder harmonischen Mars-Aspekten im Minus, „töten sie in 99 % der Fälle den Mann im Partner“. [TG 2024-08-20](https://t.me/Leyla_Astro2/1600)
 9. **Mars bestimmt den passenden Sport.** Ihr Algorithmus: erst die Lichter auf innere Aggression prüfen, dann das Mars-Zeichen, dann die Mars-Aspekte, für Fortgeschrittene zusätzlich den Dispositor. [TG 2024-04-17](https://t.me/Leyla_Astro2/1118), [TG 2025-03-25](https://t.me/Leyla_Astro2/2479), [TG 2025-06-03](https://t.me/Leyla_Astro2/2734), [TG 2026-01-27](https://t.me/Leyla_Astro2/3162), [TG 2026-04-10](https://t.me/Leyla_Astro2/3499)
 10. **Dienstag ist Mars-Tag.** Mars „einschalten“ geht so: Messer schärfen, blutiges Steak essen, Vollgas fahren, Hund, Laufen, Kerzen. [TG 2025-08-26](https://t.me/Leyla_Astro2/2906), [TG 2024-01-16](https://t.me/Leyla_Astro2/750), [TG 2025-01-24](https://t.me/Leyla_Astro2/2288)
 
@@ -48,7 +48,7 @@ Leylas Kernthesen zu Mars:
 
 **Telegram @Leyla_Astro2 (öffentlich)**
 - Das komplette Archiv wurde geladen: 2.448 Posts (18.01.2023–23.11.2026, Post-IDs 1–4222), davon 2.177 mit Text.
-- 183 Posts enthalten „Mars/Марс/♂“. Sie wurden vollständig ausgewertet.
+- 183 Posts enthalten „Mars/Марс/♂“. Sie wurden vollständig ausgewertet. Nachprüfung im Archiv: 181 davon enthalten „Марс“ (in irgendeiner Form). 2 enthalten nur „♂“: Post 288 nutzt ♂ als echtes Mars-Symbol, Post 2030 nur als Emoji (🤦‍♂️) und wurde deshalb ausgeschieden. Ein Post (2130) ist ein fremder Repost und wird nicht als Leyla-Aussage gewertet.
 - Zusätzlich gelesen: 144 Bilder aus diesen Posts sowie 134 Bilder aus 271 textlosen Posts.
 - Bilder mit Text sind vollständig erfasst. Videos und Sprachnachrichten in Telegram wurden **nicht** transkribiert.
 
@@ -142,7 +142,7 @@ Leylas Kernthesen zu Mars:
 ### 3.7 Aggression, Wut, Temperament
 
 - Mars ist eine „erregende“ Planete (wie Jupiter und Pluto). Stehen Sonne/Mond in „ruhigen“ Zeichen (Stier, Krebs, Jungfrau, Waage, Steinbock, Fische), haben aber Mars-Aspekte, ist der Mensch von Natur aus ruhig, kann aber blitzschnell hochgehen. [TG 2024-12-01](https://t.me/Leyla_Astro2/2072)
-- Aspekte von Mars (und Pluto) auf die Lichter zeigen innere Aggression, die über Sport raus muss. [TG 2024-02-21](https://t.me/Leyla_Astro2/938), [TG 2024-04-17](https://t.me/Leyla_Astro2/1118), [TG 2025-03-25](https://t.me/Leyla_Astro2/2479)
+- Aspekte von Mars (und Pluto) auf die Lichter zeigen innere Aggression, die über Sport raus muss. Schon 2024 nennt sie dafür „die aggressiven Mars und Pluto oder den nervösen Jupiter“. [TG 2024-02-21](https://t.me/Leyla_Astro2/938), [TG 2024-04-17](https://t.me/Leyla_Astro2/1118), [TG 2025-03-25](https://t.me/Leyla_Astro2/2479)
 - Menschen mit Sonne oder Mond im Aspekt zu Mars (oder Jupiter/Pluto bzw. in Widder/Skorpion) dürfen auf keinen Fall auf aktiven oder Kraftsport verzichten. Sonst frisst ihre innere Energie/Aggression sie selbst auf. [TG 2025-06-03](https://t.me/Leyla_Astro2/2733)
 - „Widder-marsianische“ Menschen (und Plutonisten) haben eine sehr hohe innere Geschwindigkeit und wollen alles schnell. Um sie herum scheint alles absichtlich langsam zu laufen („Verlangsamung des Raums“). [TG 2024-10-20](https://t.me/Leyla_Astro2/1891)
 - Unaufmerksamkeit (eher Hast) kann durch Widder-/Mars-Energie „provoziert“ werden. [TG 2025-08-27](https://t.me/Leyla_Astro2/2907)
@@ -158,6 +158,7 @@ Leylas Kernthesen zu Mars:
 ### 3.9 Sport, Körper, Gesundheit
 
 - Welcher Sport konkret passt, wird nach Mars bestimmt, aber erst nach der Analyse der Lichter. [TG 2024-02-21](https://t.me/Leyla_Astro2/938)
+- Der Planet, der die Lichter aspektiert, zeigt, **wofür** man den Sport braucht: Ein Aspekt von Mars bedeutet Aggression abbauen, einer von Jupiter „Angeberei“ (sich zeigen), einer von Venus Ästhetik. Gemeint ist Leistungssport, nicht Gesundheitssport. Der Sport soll entflammen, Energie geben statt nehmen und angenehm sein. [TG 2024-02-21](https://t.me/Leyla_Astro2/938)
 - Die Sportwahl ist eine „Analyse des Mars“. Dienstag (Mars-Tag) passt, um darüber zu sprechen. [TG 2025-03-25](https://t.me/Leyla_Astro2/2472), [TG 2025-03-25](https://t.me/Leyla_Astro2/2479)
 - „Mars = Sport – der vollständige Analyse-Algorithmus“ (Titel eines Karussells). Für dich oder dein Kind muss man mehrere Nuancen berücksichtigen. [TG 2026-04-10, Bild 1](https://t.me/Leyla_Astro2/3499), [TG 2026-03-31, Bild 7](https://t.me/Leyla_Astro2/3454)
 - Beim Abnehmen ist Mars (Zeichen, Aspekte, Dispositor) für Bewegung zuständig: Beim einen wirkt Yoga, beim anderen Schwimmen, beim dritten nur Gewichtestemmen. [TG 2025-01-28](https://t.me/Leyla_Astro2/2311)
@@ -178,7 +179,7 @@ Leylas Kernthesen zu Mars:
 
 - Bei der Berufswahl muss man Mars berücksichtigen, als Fähigkeit zu handeln, je nach Zeichen und Aspekten. [TG 2025-07-29](https://t.me/Leyla_Astro2/2860)
 - Angekündigtes Video „Methode zur Kompensation des Mars“, besonders für alle, die Angst haben, Geld für ihre Leistungen zu nehmen. [TG 2024-04-16](https://t.me/Leyla_Astro2/1116)
-- „Wollt ihr Geld, dann flucht!“ Das gilt u. a., wenn Mars oder Pluto im 2. Haus steht, Venus im Aspekt mit Mars ist oder der Herrscher der Venus im Aspekt mit Mars ist. [TG 2026-02-27](https://t.me/Leyla_Astro2/3243)
+- „Wollt ihr Geld, dann flucht!“ Die Indikatoren: das 2. Haus im Skorpion/Widder, Mars oder Pluto im 2. Haus, der Herrscher des 2. Hauses im 8. Haus, Venus im Skorpion/Widder oder im Aspekt mit Pluto/Mars, der Herrscher der Venus im Skorpion/Widder oder im Aspekt mit Pluto/Mars. [TG 2026-02-27](https://t.me/Leyla_Astro2/3243)
 - Venus-Mars-Aspekte geben den Wunsch, das Verdiente schnell auszugeben (Geldabfluss). Solange das nicht kompensiert ist, ist Verdienen sinnlos. [TG 2024-08-21](https://t.me/Leyla_Astro2/1605)
 - Mars im 2. Haus / 2. Haus im Widder: Finanzen dürfen nicht stagnieren, lieber mehr ausgeben und schnell verdienen (KEINE langen Projekte). [TG 2025-11-10](https://t.me/Leyla_Astro2/3031)
 - Transit-Mars im Geldhaus bringt entweder deine Aktivität oder den Effekt, dass Geld „verbrennt“. [TG 2025-06-21](https://t.me/Leyla_Astro2/2821)
@@ -260,14 +261,16 @@ Leylas Kernthesen zu Mars:
 
 ### 4.2 Mars im Stier (≈ Mars–Venus-Aspekt)
 
+- **Partner-Archetyp (Sonne + Mars der Frau, 2023/2025):** äußere Ästhetik, Stabilität, „gesunde Merkantilität“ (im guten Sinn). Gilt für Sonne oder Mars der Frau in diesem Zeichen bzw. im entsprechenden Aspekt. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - **Motivation:** Hauptmotivation sind Geld und alles Materielle. Sieht er nicht, „wozu zum Teufel er das braucht“, tut er nichts. Er kann sich lange, lange sammeln, arbeitet dann aber sorgfältig und ohne Hast, und die Energie reicht lange. [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2026-03-31, Bild 2](https://t.me/Leyla_Astro2/3454)
-- **Minus:** ewige „Vorbereitung zum Sprung“ statt Tun, oder Handeln erst, wenn der A… brennt. [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2026-03-31, Bild 2](https://t.me/Leyla_Astro2/3454)
+- **Minus:** ewige „Vorbereitung zum Sprung“, aber ausdrücklich kein Nichtstun, oder Handeln erst, wenn der A… brennt. [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2026-03-31, Bild 2](https://t.me/Leyla_Astro2/3454)
 - Mythos „Mars im Stier = Schicksal, nichts zu machen“: falsch, jede Stellung lässt sich ins Plus bringen. [TG 2026-07-01](https://t.me/Leyla_Astro2/3783)
 - **Traummann:** zuverlässig, ausdauernd, praktisch, stabil, produktiv, „mit Geld“ und unbedingt gutaussehend. [TG 2025-07-15](https://t.me/Leyla_Astro2/2842)
 - **Sport:** Kampf „ohne Leidenschaft“, der Ausdauer braucht: griechisch-römisches und Freistilringen, Turnen, Bodybuilding, Gewichtheben [TG 2025-03-25](https://t.me/Leyla_Astro2/2479), [TG 2025-06-03, Bild 1](https://t.me/Leyla_Astro2/2734), [TG 2026-01-27, Bild 1](https://t.me/Leyla_Astro2/3162). 2026 zusätzlich Pilates, Hatha-Yoga, Tanz, Nordic Walking [TG 2026-04-10](https://t.me/Leyla_Astro2/3499).
 
 ### 4.3 Mars in den Zwillingen (≈ Mars–Merkur-Aspekt)
 
+- **Partner-Archetyp (Sonne + Mars der Frau, 2023/2025):** Beweglichkeit, Geselligkeit, Wissbegier. Gilt für Sonne oder Mars der Frau in diesem Zeichen bzw. im entsprechenden Aspekt. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - **Motivation:** Will nur handeln, wenn klar ist, wofür (nicht unbedingt finanziell). Hauptunterschied: Er kann nicht lange eine Sache machen und muss große Aufgaben in kleine zerlegen oder zwischen Aufgaben wechseln. [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2026-03-31, Bild 2](https://t.me/Leyla_Astro2/3454)
 - **Minus:** ständiges Chaos im Handeln, Energie ins Nichts, „Schlamper“-Zustand. [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2026-03-31, Bild 2](https://t.me/Leyla_Astro2/3454)
 - Mars in den Zwillingen heißt: Man legt los und wird aktiv wie ein Zwilling. Das war ihre Antwort auf die Frage einer Followerin mit Sonne Stier und Mond/Venus/Mars in den Zwillingen. Was einen „freut und entzündet“, sind trotzdem vor allem die Stier-Dinge der Sonne (Geld, gutes Essen, etwas Schönes und Bequemes kaufen). [TG 2024-10-28, Bild 2](https://t.me/Leyla_Astro2/1927)
@@ -279,6 +282,7 @@ Leylas Kernthesen zu Mars:
 
 ### 4.4 Mars im Krebs (≈ Mars–Mond-Aspekt)
 
+- **Partner-Archetyp (Sonne + Mars der Frau, 2023/2025):** Fürsorge, Feinfühligkeit, Familiensinn. Gilt für Sonne oder Mars der Frau in diesem Zeichen bzw. im entsprechenden Aspekt. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - **Motivation:** Muss sich von Emotionen „nähren“, um anzuspringen. Hauptmotivation sind Emotion und Stimmung, am stärksten die Familie. Ideal: sofort loslegen, sobald eine Emotion da ist, oder eine Tätigkeit mit wechselnden Stimmungen und ohne Routine. [TG 2025-05-14](https://t.me/Leyla_Astro2/2636), [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2026-03-31, Bild 3](https://t.me/Leyla_Astro2/3454)
 - **Minus:** keine Emotion, keine Handlung. [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2026-03-31, Bild 3](https://t.me/Leyla_Astro2/3454)
 - Im Minus wird Mars im Krebs bedingt „steinbockig“ und fängt an zu „hängen“ bzw. zu „stumpfen“. [TG 2026-10-10](https://t.me/Leyla_Astro2/4135)
@@ -289,6 +293,7 @@ Leylas Kernthesen zu Mars:
 
 ### 4.5 Mars im Löwen (≈ Mars–Sonne-Aspekt)
 
+- **Partner-Archetyp (Sonne + Mars der Frau, 2023/2025):** die Fähigkeit zu motivieren, strahlendes Äußeres, Lebendigkeit. Gilt für Sonne oder Mars der Frau in diesem Zeichen bzw. im entsprechenden Aspekt. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - **Motivation:** Wird eingeschaltet durch Lob, den Wunsch, besser als jemand zu sein, oder die Möglichkeit, andere zu motivieren. [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2026-03-31, Bild 3](https://t.me/Leyla_Astro2/3454)
 - **Minus:** Bleibt er ohne Aufmerksamkeit und enden seine Taten nicht mit Applaus, tut er mit der Zeit nichts mehr und wird völlig träge. Hat er zusätzlich Probleme mit der Sonne, bremst ihn die Angst vor Kritik. [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2026-03-31, Bild 3](https://t.me/Leyla_Astro2/3454)
 - Lobst du deinen Mann mit Mars im Löwen (oder Sonne-Mars-Aspekt) nicht, wenn er etwas gemacht hat, macht er morgen gar nichts mehr. „100 %, geprüft an Dutzenden Klienten und mehreren Verwandten.“ [TG 2026-06-27](https://t.me/Leyla_Astro2/3769)
@@ -299,6 +304,7 @@ Leylas Kernthesen zu Mars:
 
 ### 4.6 Mars in der Jungfrau (≈ Mars–Merkur-Aspekt)
 
+- **Partner-Archetyp (Sonne + Mars der Frau, 2023/2025):** Fürsorge, Wert für die Partnerin, Logik, Wirtschaftlichkeit/Häuslichkeit (Letzteres nur 2025). Gilt für Sonne oder Mars der Frau in diesem Zeichen bzw. im entsprechenden Aspekt. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - **Motivation:** Bester Motivator ist das Gefühl, für jemanden nützlich und wertvoll zu sein, sich um jemanden zu kümmern. Wie bei den Zwillingen große Aufgaben in kleine zerlegen. Ideal, wenn man in der Tätigkeit jemandem etwas „ordentlich einsortiert“. [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2026-03-31, Bild 4](https://t.me/Leyla_Astro2/3454)
 - **Minus:** kritisiert nur und tut nichts. [TG 2025-08-20](https://t.me/Leyla_Astro2/2892), [TG 2026-03-31, Bild 4](https://t.me/Leyla_Astro2/3454)
 - **Traummann:** ordentlich, zuverlässig, produktiv, methodisch, nützlich für Geldbeutel, Alltag und Gesundheit. [TG 2025-07-15](https://t.me/Leyla_Astro2/2842)
@@ -306,6 +312,7 @@ Leylas Kernthesen zu Mars:
 
 ### 4.7 Mars in der Waage (≈ Mars–Venus-Aspekt)
 
+- **Partner-Archetyp (Sonne + Mars der Frau, 2023/2025):** Ästhetik und Aristokratie im Äußeren, Kompromissbereitschaft, Geselligkeit. Gilt für Sonne oder Mars der Frau in diesem Zeichen bzw. im entsprechenden Aspekt. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - Kann a priori nichts allein anfangen. [TG 2025-05-14](https://t.me/Leyla_Astro2/2636)
 - **Motivation:** „Entgegen der Meinung, das sei die schlechteste Mars-Stellung“: Ideal ist es, nicht allein, sondern mit jemandem zu starten. Später kann man allein weitermachen, aber am Anfang einen Partner nehmen und die Verantwortungsbereiche aufteilen. [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 4](https://t.me/Leyla_Astro2/3454)
 - **Minus:** endloses Abwägen und Zweifeln. [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 4](https://t.me/Leyla_Astro2/3454)
@@ -315,6 +322,7 @@ Leylas Kernthesen zu Mars:
 
 ### 4.8 Mars im Skorpion (≈ Mars–Pluto-Aspekt)
 
+- **Partner-Archetyp (Sonne + Mars der Frau, 2023/2025):** Zerreißprobe/Intensität (nur 2025), Risikobereitschaft, Transformation, Belastungsprobe, „kein Sumpf“. Gilt für Sonne oder Mars der Frau in diesem Zeichen bzw. im entsprechenden Aspekt. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - Schaltet sich ein, wenn der A… brennt. [TG 2025-05-14](https://t.me/Leyla_Astro2/2636)
 - **Motivation:** Beste Motivation ist „der A…“ 😂, genauer: Krise und Anspannung sind die beste Zeit zum Einschalten. Man kann sich sogar selbst in diesen Zustand versetzen („Deadline-Mensch“, für ihn normal). Gute Motivation ist auch, etwas für jemanden zu tun und fremde Probleme zu lösen. [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 5](https://t.me/Leyla_Astro2/3454)
 - **Minus / problematischer Mars:** ständiger Wunsch nach Stabilität und Arbeit im Komfort. [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 5](https://t.me/Leyla_Astro2/3454)
@@ -328,6 +336,7 @@ Leylas Kernthesen zu Mars:
 
 ### 4.9 Mars im Schützen (≈ Mars–Jupiter-Aspekt)
 
+- **Partner-Archetyp (Sonne + Mars der Frau, 2023/2025):** gegenseitiger Respekt und Stolz, Autorität, Status. Gilt für Sonne oder Mars der Frau in diesem Zeichen bzw. im entsprechenden Aspekt. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - **Motivation:** der Wunsch anzugeben, Expertise zu zeigen, von Erfolgen und Ideen zu erzählen, vor allem aber das Verständnis, dass die Handlung den Status hebt. Zweifel, ob man es am besten macht, bremsen den Prozess. [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 5](https://t.me/Leyla_Astro2/3454)
 - **Minus:** entweder perfekt oder gar nicht (Einserschüler-Syndrom). [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 5](https://t.me/Leyla_Astro2/3454)
 - Allgemein motiviert sich eine persönliche Planete im Schützen oder im Aspekt mit Jupiter über die Möglichkeit, ihre Erfolge und ihr Level zu zeigen (Angeberei, im Plus angemessen). Als Beispiel nennt sie „Mars im Schützen und Aspekt mit Sonne“, ohne eigene Deutung. [TG 2026-06-27](https://t.me/Leyla_Astro2/3769)
@@ -338,6 +347,7 @@ Leylas Kernthesen zu Mars:
 
 ### 4.10 Mars im Steinbock (≈ Mars–Saturn-Aspekt)
 
+- **Partner-Archetyp (Sonne + Mars der Frau, 2023/2025):** die Fähigkeit, sich zurückzuhalten bzw. „glatt wie Seife“ zu sein (nur 2025), Distanz, Verantwortung, Stabilität. Gilt für Sonne oder Mars der Frau in diesem Zeichen bzw. im entsprechenden Aspekt. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - **Motivation:** Kein Plan, keine Handlung. Ideal sind mehrere Pläne (A, B, C) und ein Handeln nach genehmigtem Projekt. Scheitert Plan A, kann er in Starre fallen und nicht wissen, was weiter zu tun ist. [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 6](https://t.me/Leyla_Astro2/3454)
 - **Minus:** Angst vor gesellschaftlicher Verurteilung. [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 6](https://t.me/Leyla_Astro2/3454)
 - Mars im Steinbock oder Wassermann kann „so etwas“ (Video-Inhalt) auch, wohl aber nur im Aspekt mit einer schnellen Planete und vor allem nur, wenn er richtig funktioniert. [TG 2024-04-29](https://t.me/Leyla_Astro2/1155)
@@ -348,6 +358,7 @@ Leylas Kernthesen zu Mars:
 
 ### 4.11 Mars im Wassermann (≈ Mars–Uranus-Aspekt)
 
+- **Partner-Archetyp (Sonne + Mars der Frau, 2023/2025):** gemeinsame Pläne, Distanz, die Fähigkeit zu analysieren. Gilt für Sonne oder Mars der Frau in diesem Zeichen bzw. im entsprechenden Aspekt. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - **Motivation:** Auch hier ist ein Plan wichtig, aber er muss sich „setzen“ (nicht sofort loslegen), und man muss durchdenken, wohin die Handlung führt („in die Zukunft schauen“). Er funktioniert sehr gut beim Motivieren der Masse bzw. eines Kollektivs. [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 6](https://t.me/Leyla_Astro2/3454)
 - **Minus:** ständiges Aufschieben des Starts, „ein endloses Morgen“. [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 6](https://t.me/Leyla_Astro2/3454)
 - Mars im Wassermann/Steinbock und „so etwas“: siehe 4.10. [TG 2024-04-29](https://t.me/Leyla_Astro2/1155)
@@ -356,6 +367,7 @@ Leylas Kernthesen zu Mars:
 
 ### 4.12 Mars in den Fischen (≈ Mars–Neptun-Aspekt)
 
+- **Partner-Archetyp (Sonne + Mars der Frau, 2023/2025):** Flexibilität, Sinnlichkeit (genauer: einander spüren), Fürsorge. Gilt für Sonne oder Mars der Frau in diesem Zeichen bzw. im entsprechenden Aspekt. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - Muss sich (wie der Krebs) von Emotionen nähren. [TG 2025-05-14](https://t.me/Leyla_Astro2/2636)
 - **Motivation:** Inspiration, Emotion oder ein hohes Ziel („die Welt besser machen“). Man kann einen inspirierenden Film schauen oder ein motivierendes Buch lesen. Lifehack: schauen, wie andere es machen, und es besser machen. [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 7](https://t.me/Leyla_Astro2/3454)
 - **Minus:** Faulheit oder Opferhaltung („ich mache alles für alle, nur nicht für mich“). [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-03-31, Bild 7](https://t.me/Leyla_Astro2/3454)
@@ -413,7 +425,7 @@ Leylas Kernthesen zu Mars:
 ### 5.6 Mars im 6. Haus
 
 - Empfehlung: Initiative in der Arbeit und mit Kollegen zeigen, eigene Interessen ihnen gegenüber verteidigen, sich aktiv um die Gesundheit kümmern, Bewegung hinzufügen oder ein „marsianisches“ Tier (Hund) anschaffen. [TG 2026-05-20, Bild 3](https://t.me/Leyla_Astro2/3619)
-- Minus der Passivität: Notfall-Stress, Konflikte mit Kollegen und Mitarbeitern, Arbeit für zwei ohne Geld, akute und plötzliche Krankheiten, Verletzungen, (Blut-)Druck. [TG 2026-05-20, Bild 3](https://t.me/Leyla_Astro2/3619)
+- Minus der Passivität: Arbeitshektik/Stoßzeiten mit Überstunden, Konflikte mit Kollegen und Mitarbeitern, Arbeit für zwei ohne Geld, akute und plötzliche Krankheiten, Verletzungen, (Blut-)Druck. [TG 2026-05-20, Bild 3](https://t.me/Leyla_Astro2/3619)
 
 ### 5.7 Mars im 7. Haus
 
@@ -465,7 +477,7 @@ Leylas Kernthesen zu Mars:
 - Mond im Widder/Skorpion → das Zeichen von Mars als Herrscher zeigt die äußere Realität (Beispiel Mars in der Waage → „Ideal einer Mutter“). [TG 2024-09-20](https://t.me/Leyla_Astro2/1709)
 - Mond-Herrscher im Aspekt mit Mars (oder in Feuer) → die Emotion wird stark ausgedrückt. [TG 2025-06-16](https://t.me/Leyla_Astro2/2777)
 - Haben die Lichter keine Aspekte, macht man die Aktivierung nach Zeichen und Aspekten des Herrschers (Mars für Widder und als Mitherrscher für Skorpion). [TG 2026-05-05](https://t.me/Leyla_Astro2/3577)
-- Venus-Herrscher im Aspekt mit Mars ist ein Indikator für „Geld durch Fluchen“. [TG 2026-02-27](https://t.me/Leyla_Astro2/3243)
+- „Geld durch Fluchen“: Dazu zählen das 2. Haus im Widder (Herrscher Mars), Venus im Widder, der Herrscher der Venus im Widder bzw. im Aspekt mit Mars sowie Mars im 2. Haus. [TG 2026-02-27](https://t.me/Leyla_Astro2/3243)
 - Mars-Dispositor: Er gehört bei Sport und Motivation dazu. Leylas eigener Mars-Dispositor steht im Steinbock (daher Yoga/Stretching). [TG 2025-01-28](https://t.me/Leyla_Astro2/2311), [TG 2025-03-25](https://t.me/Leyla_Astro2/2479), [TG 2025-06-03](https://t.me/Leyla_Astro2/2734), [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), [TG 2026-01-27](https://t.me/Leyla_Astro2/3162)
 
 ---
@@ -527,6 +539,7 @@ Leylas Kernthesen zu Mars:
 - Bei Mars-/Pluto-Aspekten auf den Mond darf man Emotionen nicht zurückhalten. [TG 2023-09-25](https://t.me/Leyla_Astro2/371), [TG 2025-05-19](https://t.me/Leyla_Astro2/2673)
 - Emotionen werden ausgelöst, wenn jemand mit einem zu konkurrieren versucht. [TG 2025-06-16](https://t.me/Leyla_Astro2/2777)
 - **Mond im Widder und im Aspekt mit Mars:** verschärftes Gerechtigkeitsgefühl. Alles, was als ungerecht empfunden wird, bringt einen auf die Palme. [TG 2026-02-02](https://t.me/Leyla_Astro2/3189)
+- **Quadrat Sonne ODER Mond mit Mars:** Der Mensch will sehr stark etwas tun und sein Leben ändern, aber nicht selbst: Jemand anderes soll es ohne seine aktive Beteiligung machen, „es soll von selbst passieren“. [TG 2025-04-22](https://t.me/Leyla_Astro2/2566)
 - **Konjunktion Mond–Mars** ist eine Verletzung (Schwächung) des Mondes: „Mars ist ein Aggressor.“ [TG 2025-10-13](https://t.me/Leyla_Astro2/2994)
 - **Quadrat Mond–Mars:** Da der Mond immer arbeitet, ist der Aspekt ständig eingeschaltet und bringt eine gewisse Gereiztheit. Als Quadrat spürt man es eventuell lange nicht, bis sich eine kritische Masse ansammelt, dann kann es explodieren. [TG 2026-09-07](https://t.me/Leyla_Astro2/4054)
 - Beispiel Quadrat Mond–Mars: Man fängt an zu boxen, sich durchzusetzen, Sport zu machen und Spannung abzubauen, und es wird noch schlimmer, noch mehr Wut. Grund: Man muss die Stellung anderer Planeten berücksichtigen, die beim Ausarbeiten helfen (z. B. die Sonne). [TG 2026-03-10](https://t.me/Leyla_Astro2/3315)
@@ -580,7 +593,7 @@ Leylas Kernthesen zu Mars:
 - Mars–Jupiter im Minus (wenn man nicht mutig ist): Situationen, in denen einen die Routine buchstäblich verschluckt und man sich bei der Arbeit an kleinen Aufgaben festbeißt, die wie ein Schneeball auf einen fallen. [TG 2025-11-27](https://t.me/Leyla_Astro2/3085)
 - Jupiter ☍ Mars gibt eine Blockade: Man will es perfekt machen, perfekt klappt nicht, also macht man gar nichts. [TG 2026-10-10](https://t.me/Leyla_Astro2/4135)
 - Sport: Jupiter-Aspekte bedeuten Elitesport, Wanderungen, Läufe, Ski. [TG 2025-03-25](https://t.me/Leyla_Astro2/2479)
-- Sportwahl: Jupiter-Aspekte auf die Lichter zählen ab 2025 ebenfalls als Zeichen innerer Aggression (siehe Kapitel 10). [TG 2025-06-03](https://t.me/Leyla_Astro2/2734)
+- Sportwahl: Jupiter-Aspekte auf die Lichter zählen als Zeichen innerer Aggression („nervöser Jupiter“). Als Sportmotiv bedeuten sie „Angeberei“ (siehe Kapitel 10). [TG 2024-02-21](https://t.me/Leyla_Astro2/938), [TG 2025-06-03](https://t.me/Leyla_Astro2/2734)
 - ⚠️ **Zwei Deutungsstränge:** Mars–Jupiter steht bei ihr mal für Perfektionismus („perfekt oder gar nicht“, „keiner macht es besser als ich“) [TG 2024-11-02](https://t.me/Leyla_Astro2/1946), [TG 2026-10-10](https://t.me/Leyla_Astro2/4135), wie im Minus von Mars im Schützen [TG 2025-08-20](https://t.me/Leyla_Astro2/2893), und mal für das Versinken in Routine („Hamster im Rad“, „Schneeball“) [TG 2025-04-22](https://t.me/Leyla_Astro2/2566), [TG 2025-11-27](https://t.me/Leyla_Astro2/3085). Sie verbindet beide nicht ausdrücklich.
 
 ### 6.6 Mars – Saturn (≈ Mars im Steinbock)
@@ -646,10 +659,10 @@ Leylas Kernthesen zu Mars:
 
 Chronologisch:
 
-- **08./09.01.2024** (Mond im Schützen, „Test auf Läuse“): Wer Mars im Schützen hat, soll beobachten, ob der Tag aktiv wird und ob es Konflikt gibt. [TG 2024-01-07](https://t.me/Leyla_Astro2/719)
+- **08./09.01.2024** (Prognose: für alle mit Planeten im Schützen ein „Härtetest“ dieser Planeten): Wer Mars im Schützen hat, soll beobachten, ob der Tag aktiv wird und ob es Konflikt gibt. [TG 2024-01-07](https://t.me/Leyla_Astro2/719)
 - **10./11.01.2024** (Mond im Steinbock): Wer Mars im Steinbock hat, soll beobachten, ob er etwas Neues anfängt und ob er seine Interessen verteidigen muss. [TG 2024-01-09](https://t.me/Leyla_Astro2/721)
 - **16.01.2024** (Dienstag): Kerzen ja, aber nie unbeaufsichtigt, mit Verweis auf ihren eigenen Wohnungsbrand 2014. [TG 2024-01-16](https://t.me/Leyla_Astro2/750), [TG 2024-01-16](https://t.me/Leyla_Astro2/751)
-- **13.12.2024**: Freitag der 13., rückläufiger Merkur über rückläufigem Mars: „Combo für Abergläubische“. Das war ein Repost; Leylas Kommentar: zu Hause bleiben und „das Fest des Bauches feiern“. Im Kalender-Screenshot stehen „Rückläufiger Mars“ und „Rückläufiger Merkur“ ganztägig. [TG 2024-12-13](https://t.me/Leyla_Astro2/2130), [TG 2024-12-13, Bild 1](https://t.me/Leyla_Astro2/2130)
+- *(13.12.2024: „Freitag der 13., rückläufiger Merkur über rückläufigem Mars“ ist ein **fremder Repost (@techmedia), kein Leyla-Inhalt**, samt Kommentar und Kalenderbild. Hier nur zur Vollständigkeit genannt, nicht als Aussage gewertet. [TG 2024-12-13](https://t.me/Leyla_Astro2/2130))*
 - **13.01.2025** (Vollmond / Altes Neujahr): Bei Mond–Mars-Aspekt Messer im Haus schärfen oder ein Kerzenritual (z. B. für Wünsche). [TG 2025-01-13](https://t.me/Leyla_Astro2/2236)
 - **14.01.2025** („marsianischer Morgen“, Dienstag): Mars ist derzeit rückläufig und steht im Krebs. Tipps: siehe Kapitel 8. Sie verfolgt solche Retro-Trends kaum, weil sie mit ihrem Radix „abgestimmt“ ist: Entweder fügen sich die Umstände so, dass nichts Falsches passiert, oder es läuft trotzdem gut. [TG 2025-01-14](https://t.me/Leyla_Astro2/2240), Repost [TG 2025-01-21](https://t.me/Leyla_Astro2/2283)
 - **24.02.2025** (Montag): Bei Mond–Mars den Abend mit einem Bad mit Kerzen verbringen. [TG 2025-02-24](https://t.me/Leyla_Astro2/2377)
@@ -669,7 +682,7 @@ Chronologisch:
   - zu einer ins Stocken geratenen Renovierung zurückkehren
   - einen lange währenden Konflikt lösen, in dem man sich nicht behaupten konnte. Bei neuen Streitfragen ist jetzt keine gute Zeit für Konflikte.
   - insgesamt die ideale Zeit, das lange Aufgeschobene zu tun, nicht Neues, das einem gerade erst einfällt (z. B. endlich bei ihr Astrologie lernen)
-- Freitag, 13.12.2024: rückläufiger Merkur über rückläufigem Mars (Repost). [TG 2024-12-13](https://t.me/Leyla_Astro2/2130), [TG 2024-12-13, Bild 1](https://t.me/Leyla_Astro2/2130)
+- (Der Post vom 13.12.2024 zu R-Merkur und R-Mars ist ein fremder Repost von @techmedia, kein Leyla-Inhalt. [TG 2024-12-13](https://t.me/Leyla_Astro2/2130))
 - Zu rückläufigem Mars im **Radix** (Geburtshoroskop): keine Aussage gefunden.
 
 ---
@@ -679,6 +692,7 @@ Chronologisch:
 - **Kompatibilität, Kriterium 1:** Man verkörpert das Bild, das der Partner braucht. In der Frauenkarte stehen dafür Sonne und Mars, in der Männerkarte Mond und Venus. [TG 2023-01-20](https://t.me/Leyla_Astro2/5)
 - Als Frau Zeichen und Aspekte von Sonne und Mars ansehen: Deren Charakteristik ist das Idealbild des Mannes. Für mehr Genauigkeit die aspektierenden Planeten hinzuaddieren. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927), [TG 2023-05-06](https://t.me/Leyla_Astro2/302), [TG 2024-02-09](https://t.me/Leyla_Astro2/881)
 - **Sonne = Ehemann, Mars = Mann „für die Seele“** („ihr versteht mich schon“). Traummann je Mars-Zeichen: siehe Kapitel 4. [TG 2025-07-15](https://t.me/Leyla_Astro2/2842)
+- „Synonyme“ der Zeichen bzw. Aspekte für diesen Partner-Archetyp (fast gleich 2023 und 2025): Widder/Mars = Aktivität, Initiative, Führung, motivieren; Stier/Venus = äußere Ästhetik, Stabilität, gesunde Merkantilität; Zwillinge/Merkur = Beweglichkeit, Geselligkeit, Wissbegier; Krebs/Mond = Fürsorge, Feinfühligkeit, Familiensinn; Löwe/Sonne = motivieren, strahlendes Äußeres, Lebendigkeit; Jungfrau/Merkur = Fürsorge, Wert für die Partnerin, Logik (2025 zusätzlich Wirtschaftlichkeit); Waage/Venus = Ästhetik/Aristokratie, Kompromissbereitschaft, Geselligkeit; Skorpion/Pluto = (2025: Zerreißprobe), Risiko, Transformation, Belastungsprobe, „kein Sumpf“; Schütze/Jupiter = gegenseitiger Respekt und Stolz, Autorität, Status; Steinbock/Saturn = (2025: sich zurückhalten können, „Seife sein“), Distanz, Verantwortung, Stabilität; Wassermann/Uranus = gemeinsame Pläne, Distanz, Analysefähigkeit; Fische/Neptun = Flexibilität, einander spüren, Fürsorge. Details je Zeichen in Kapitel 4. [TG 2023-11-01](https://t.me/Leyla_Astro2/491), [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - Beispiele für die Kombination: Sonne Widder + Mars Krebs → aktiv, aber feinfühlig. Sonne Schütze + Mars Steinbock → man muss ihn respektieren, „wie hinter einer Steinmauer“. [TG 2025-09-09](https://t.me/Leyla_Astro2/2927)
 - **Dating vs. Ehe:** Beim Dating läuft der Mann über Mars und das 5. Haus, nach Zusammenziehen oder Heirat über Sonne und 7. Haus. Deshalb unterscheiden sich Beziehungen vor und nach der Ehe oft: Bei manchen sind Mars und 5. Haus ok, vor der Ehe läuft alles, aber Sonne/7. Haus sind problematisch, oder umgekehrt. [TG 2026-04-11](https://t.me/Leyla_Astro2/3508)
 - **Synastrie-Aspekte:** Angespannte Aspekte wirken laut ihrer Beobachtung am stärksten. Beispiel: Quadrat zwischen deinem Mond und seinem Mars → mit diesem Partner wächst man (bei richtigem Verhalten). [TG 2023-01-20](https://t.me/Leyla_Astro2/7)
@@ -752,7 +766,8 @@ Chronologisch:
 - **Schritt 3:** Mars-Aspekte analysieren (siehe 6.0).
 - **Für „besonders Fortgeschrittene“:** zusätzlich das Zeichen des Mars-Dispositors.
 - Quellen: [TG 2024-02-21](https://t.me/Leyla_Astro2/938), [TG 2024-04-17](https://t.me/Leyla_Astro2/1118), [TG 2025-03-25](https://t.me/Leyla_Astro2/2479), [TG 2025-06-03](https://t.me/Leyla_Astro2/2734), [TG 2026-01-27](https://t.me/Leyla_Astro2/3162), [TG 2026-04-10](https://t.me/Leyla_Astro2/3499)
-- ⚠️ **Entwicklung (Schritt 1):** 2024 und im März 2025 sind die Aggressions-Indikatoren nur „Aspekte von Mars und Pluto“ [TG 2024-04-17](https://t.me/Leyla_Astro2/1118), [TG 2025-03-25](https://t.me/Leyla_Astro2/2479). Ab Juni 2025 nimmt sie Jupiter dazu („Aspekte von Mars, Pluto und Jupiter“) [TG 2025-06-03](https://t.me/Leyla_Astro2/2734), [TG 2026-01-27](https://t.me/Leyla_Astro2/3162), [TG 2026-04-10](https://t.me/Leyla_Astro2/3499).
+- ⚠️ **Schwankung (Schritt 1):** Schon im Februar 2024 nennt sie als Aggressions-Indikatoren „die aggressiven Mars und Pluto oder den nervösen Jupiter“ [TG 2024-02-21](https://t.me/Leyla_Astro2/938). In den Fassungen vom April 2024 und März 2025 fehlt Jupiter („Aspekte von Mars und Pluto“) [TG 2024-04-17](https://t.me/Leyla_Astro2/1118), [TG 2025-03-25](https://t.me/Leyla_Astro2/2479). Ab Juni 2025 steht er wieder drin („Aspekte von Mars, Pluto und Jupiter“) [TG 2025-06-03](https://t.me/Leyla_Astro2/2734), [TG 2026-01-27](https://t.me/Leyla_Astro2/3162), [TG 2026-04-10](https://t.me/Leyla_Astro2/3499).
+- Wofür der Sport dient, zeigt der Planet, der die Lichter aspektiert: Mars bedeutet Aggression abbauen, Jupiter „Angeberei“, Venus Ästhetik. [TG 2024-02-21](https://t.me/Leyla_Astro2/938)
 - Eigenes Beispiel: Ihr Mars ☌ Mond, Dispositor im Steinbock → Schwimmen (Mond) und Yoga/Stretching (Saturn) sind top. [TG 2025-01-28](https://t.me/Leyla_Astro2/2311)
 - Mond/Venus im Aspekt mit Mars/Pluto: zum Abnehmen ins Fitnessstudio (notfalls Cycle). [TG 2026-03-01](https://t.me/Leyla_Astro2/3247)
 - Sport nach Haus: 1. Haus Sport treiben, 4. Haus Sport zu Hause, 6. Haus Bewegung oder Hund, 7. Haus Paarsport, 8. Haus Extremsport, 12. Haus Schwimmen und Sport allein im Wald/Park. [TG 2026-05-20, Bild 1](https://t.me/Leyla_Astro2/3619), [TG 2026-05-20, Bild 2](https://t.me/Leyla_Astro2/3619), [TG 2026-05-20, Bild 3](https://t.me/Leyla_Astro2/3619), [TG 2026-05-20, Bild 4](https://t.me/Leyla_Astro2/3619), [TG 2026-05-20, Bild 6](https://t.me/Leyla_Astro2/3619)
@@ -834,7 +849,7 @@ Was Leyla in den zugänglichen Quellen (Telegram-Text und -Bilder, YouTube-Titel
 - Marathon-Inhalte
 
 **Mars in den Zeichen**
-- Zu allen 12 Zeichen gibt es Aussagen (Motivation, Minus, Traummann, Sport).
+- Zu allen 12 Zeichen gibt es Aussagen (Motivation, Minus, Traummann/Partner-Archetyp, Sport).
 - Dünn sind nur:
   - Widder: kein „Traummann“-Pendant über den Aspekt, weil Mars sich nicht selbst aspektiert. Sonst vollständig.
   - Schütze und Wassermann: keine Fallbeispiele.
@@ -856,7 +871,7 @@ Was Leyla in den zugänglichen Quellen (Telegram-Text und -Bilder, YouTube-Titel
 - **Mars–Mars** (Synastrie oder Transit): keine Aussage.
 - **Trigon/Sextil** einzeln: Sie unterscheidet nur „harmonisch“ pauschal, keine Unterscheidung Trigon vs. Sextil.
 - **Quinkunx** und Nebenaspekte: keine Aussage.
-- **Orben** für Mars-Aspekte: keine Aussage.
+- **Orben** für Mars-Aspekte: keine Mars-spezifische Aussage. Allgemein sagt sie, sie arbeite mit „vergrößerten Orben“, die in der Praxis „in 99 % der Fälle funktionieren“. [TG 2026-06-24](https://t.me/Leyla_Astro2/3759)
 - Mars–Merkur, Mars–Saturn, Mars–Neptun, Mars–Pluto: keine Unterscheidung nach Aspektart (Konjunktion/Quadrat/Opposition). Bei Mars–Jupiter nur die Opposition, bei Mars–Uranus keine Aspektart.
 
 **Transite & Prognose**
@@ -866,7 +881,7 @@ Was Leyla in den zugänglichen Quellen (Telegram-Text und -Bilder, YouTube-Titel
 - keine Progressionen, Direktionen oder Solar-Mars
 
 **Rückläufiger Mars**
-- nur ein Transit-Post (Jan. 2025) plus die Grundaussage „ungewöhnlich, nicht schlecht“
+- nur ein eigener Transit-Post (Jan. 2025) plus die Grundaussage „ungewöhnlich, nicht schlecht“. Der Post vom 13.12.2024 ist ein fremder Repost.
 - keine Aussage zu R-Mars im Radix
 - keine Aussage zum Stillstand oder Schattenzeitraum
 
@@ -948,7 +963,7 @@ Alle verwendeten Post-Links, sortiert nach Datum (Telegram @Leyla_Astro2; YouTub
 - [TG 2024-12-01 – Post 2072](https://t.me/Leyla_Astro2/2072)
 - [TG 2024-12-10 – Post 2116](https://t.me/Leyla_Astro2/2116)
 - [TG 2024-12-12 – Post 2125](https://t.me/Leyla_Astro2/2125)
-- [TG 2024-12-13 – Post 2130](https://t.me/Leyla_Astro2/2130) (inkl. Bild 1)
+- [TG 2024-12-13 – Post 2130](https://t.me/Leyla_Astro2/2130) – fremder Repost (@techmedia), kein Leyla-Inhalt
 - [TG 2024-12-22 – Post 2167](https://t.me/Leyla_Astro2/2167)
 - [TG 2024-12-26 – Post 2171](https://t.me/Leyla_Astro2/2171)
 - [TG 2024-12-27 – Post 2175](https://t.me/Leyla_Astro2/2175)

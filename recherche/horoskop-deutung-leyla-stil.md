@@ -6,7 +6,41 @@ tags: [astrologie, leyla, deutung]
 
 # Horoskop-Deutung im Stil von Leyla – die 21-Jährige
 
+## In einfachen Worten
+
+> Diese Kurzfassung fasst nur zusammen, was weiter unten mit Quellen belegt ist. Sie stammt nicht von Leyla selbst, sondern ist aus ihren öffentlichen Aussagen zusammengesetzt. Nichts davon ist Schicksal: Leyla sagt, jede Anlage lässt sich zum Guten wenden.
+
+**Was in dir steckt:**
+- Du kannst gut erklären und anderen etwas beibringen.
+- Du kannst mit Worten begeistern, schreiben, überzeugen und verkaufen.
+- Du stehst Krisen gut durch und spürst, was andere brauchen.
+- Du hast Geschmack und ein Gefühl für Stil und Schönheit.
+- Du kannst andere mitreißen und motivieren.
+
+**Wo deine Chancen liegen:**
+- Laut Leyla solltest du dich zeigen, etwa mit eigenen Inhalten in sozialen Netzwerken, statt im Hintergrund zu bleiben.
+- Lernen und Austausch bringen dir Geld. Ausbildung lohnt sich für dich.
+- Schnelles Geld kann über Auftritte, Events und kreative Projekte kommen.
+- Große, anspruchsvolle Projekte passen zu dir. Du darfst groß denken.
+- Reisen tun dir gut: kurze Fahrten, Fernreisen und längere Zeit am Meer.
+
+**Woran du arbeiten darfst:**
+- Deine eigenen Wünsche ernst nehmen, statt dich nur anzupassen. Das ist für Leyla der wichtigste Schritt.
+- Gefühle zeigen und Vertrauen aufbauen, auch beim Thema Geld.
+- Nicht alles allein machen: um Hilfe bitten und Aufgaben abgeben.
+- In Liebe und bei Geld wachsam bleiben: vertrauen, aber prüfen.
+- Talente auch wirklich nutzen und Pläne nicht ewig aufschieben.
+
+**Fünf Tipps zum Anfangen:**
+1. Schreib deine Wünsche sehr konkret auf, mit einem Plan, und notiere, wofür du dich loben kannst.
+2. Mach regelmäßig Sport: Kraft oder Pilates, Tanzen, dazu Schwimmen.
+3. Nimm dir feste Zeiten zum Entspannen und für kleine Rituale, zum Beispiel ausmisten, heiß duschen, Wünsche aufschreiben.
+4. Führe ein Budget und kauf nichts spontan. Gönn dir aber bewusst ab und zu etwas Schönes und investiere in Bildung.
+5. Fang neue Projekte gemeinsam mit jemandem an und zeig sie dann der Welt. Bei Liebe und Ehe gilt: nichts überstürzen, Absprachen treffen, eigenen Freiraum behalten.
+
 ## Inhalt
+
+- [In einfachen Worten](#in-einfachen-worten)
 
 0. [Kurz vorab](#0-kurz-vorab)
 1. [So würde Leyla vorgehen](#1-so-würde-leyla-vorgehen)
@@ -36,7 +70,7 @@ tags: [astrologie, leyla, deutung]
 - **Waage-Gruppe im 5. Haus:** Merkur Waage, Venus Skorpion und Jupiter Waage stehen alle im 5. Haus.
 - **Mars:** Stier im 11. Haus.
 - **Langsame Planeten:** Saturn Löwe im 2. Haus, Uranus Fische am MC (10. Haus), Neptun Wassermann im 9. Haus, Pluto Schütze im 6. Haus.
-- **Mondknoten:** Nordknoten Widder im 11. Haus, rückläufig (mittlerer Knoten).
+- **Mondknoten:** Nordknoten Widder im 11. Haus, laut Horoskopdaten rückläufig.
 
 **Wichtigste Aspekte:**
 - **Mond:** □ Venus, □ Mars, ⚹ Jupiter, △ Pluto
@@ -104,7 +138,7 @@ Leylas Lesereihenfolge, wie sie sie selbst beschreibt:
 ## 2. Auf einen Blick
 
 **Top 5 Talente**
-1. Erklären und Lehren, Komplexes einfach machen (Mond ⚹ Jupiter) → [3.](#3-persönlichkeit--selbstwert), [9.](#9-beruf--berufung)
+1. Talent zum Unterrichten und Erklären (Mond ⚹ Jupiter) → [3.](#3-persönlichkeit--selbstwert), [9.](#9-beruf--berufung)
 2. Mit Worten mitreißen, schreiben, überzeugen, verkaufen; atmosphärisch erzählen (Sonne ☌ Merkur, Merkur △ Neptun) → [5.](#5-denken-kommunikation-sichtbarkeit)
 3. Krisenfestigkeit und Verwandlungskraft, andere spüren („unsinkbar“) (Mond △ Pluto) → [4.](#4-gefühle--mond-aspekte)
 4. Geschmack, Stil, Schönheit schaffen (Mond □ Venus bearbeitet, Venus im 5. Haus) → [4.](#4-gefühle--mond-aspekte), [6.](#6-liebe--partnerschaft)
@@ -140,10 +174,10 @@ Leylas Lesereihenfolge, wie sie sie selbst beschreibt:
 **Leyla sagt:**
 - **Funktion der Sonne:** Sie ist Selbstwert, Lebenssinn (nicht die Seelenaufgabe), Wünsche, Freude und ein lebensfrohes inneres Kind. Eine vergessene Funktion ist **Entschlossenheit** ([TG 2025-11-08](https://t.me/Leyla_Astro2/3024)). Die Sonne ist der Planet des **Erschaffens**: Man freut sich an dem, was man selbst erdacht hat. Über Zeichen und Haus der Sonne lädt man sich auf ([TG 2025-05-07](https://t.me/Leyla_Astro2/2612)).
 - **Wenn sie nicht brennt:** Man arbeitet, pflegt Beziehungen und erfüllt Pflichten, lebt aber nicht sein eigenes Leben. Man passt sich ständig an und schiebt eigene Wünsche auf ([TG 2026-11-20](https://t.me/Leyla_Astro2/4217)). Man lässt sich von fremder Meinung leicht umwerfen und hat das Gefühl, ein fremdes Leben zu leben ([TG 2026-02-24](https://t.me/Leyla_Astro2/3223)). „Keine Energie, nicht wissen, was man will“ ist zu 100 % ein Sonnenproblem ([TG 2026-07-01](https://t.me/Leyla_Astro2/3783)). Ohne brennende Sonne gibt es auch keine Freude, kein Charisma und keinen Humor ([TG 2025-04-15](https://t.me/Leyla_Astro2/2541)).
-- **Fall:** Eine Sonne im Fall ist für Leyla kein Makel. Selbst eine Sonne im Löwen muss nicht brennen. Entscheidend sei, ob der Planet mit seinem Zeichen „befreundet“ ist ([TG 2025-02-15](https://t.me/Leyla_Astro2/2358), [TG 2024-10-11](https://t.me/Leyla_Astro2/1845)).
-- **Sonne im 4. Haus:** Die Sonne in einem Haus ist das Talent, dort ein Star zu sein, zu motivieren und sichtbar zu werden ([TG 2024-12-28](https://t.me/Leyla_Astro2/2178)). Über sich selbst schreibt Leyla: Als ihre Sonne im 4. Haus zu wirken begann, „wollte ich zu Hause Gemütlichkeit schaffen“ ([TG 2024-02-05, Bild 1](https://t.me/Leyla_Astro2/845)).
+- **Fall:** Exil und Fall sind für Leyla kein Makel. Sie fordert ihre Leserinnen heraus, zu beweisen, dass Domizil oder Erhöhung Vorteile brächten ([TG 2026-02-01](https://t.me/Leyla_Astro2/3183)). Selbst eine Sonne im Löwen muss nicht brennen. Entscheidend sei, ob der Planet mit seinem Zeichen „befreundet“ ist ([TG 2025-02-15](https://t.me/Leyla_Astro2/2358)).
+- **Sonne im 4. Haus:** Die Sonne in einem Haus ist das Talent, dort ein Star zu sein, zu motivieren und sichtbar zu werden ([TG 2024-12-28](https://t.me/Leyla_Astro2/2178)). Über sich selbst schreibt Leyla nach ihrem Umzug von Tscheljabinsk nach St. Petersburg: In ihrem Horoskop für den neuen Wohnort (Relokationshoroskop) rückte die Sonne ins 4. Haus, und sie „wollte zu Hause Gemütlichkeit schaffen“ ([TG 2024-02-05, Bild 1](https://t.me/Leyla_Astro2/845)). Gemeint ist also nicht ihr Geburtshoroskop.
 - **Wohnung bei Sonne im 4. und IC Jungfrau:** Für die Sonne im 4. empfiehlt sie Knallgelb und Gold, ein Sonnenbild, eigene Werke und Kinderfotos. Für den IC (die Spitze des 4. Hauses) in der Jungfrau Ocker oder Khaki, eine Bibliothek und Vogelbilder ([TG 2025-03-04](https://t.me/Leyla_Astro2/2396)).
-- **Narzissten-Regel:** Wer die Sonne im 4. oder 7. Haus hat (oder Venus bzw. Mond im Aspekt zur Sonne) und in Familie oder Ehe nicht „der Star“ ist, hat alle Chancen, einem Narzissten zu begegnen. Man dürfe keine Angst haben, egoistisch zu wirken ([TG 2025-11-23](https://t.me/Leyla_Astro2/3084)). Im Minus „fällt die Sonne in den Uranus“, das heißt Leere, Kälte und Distanz (ebd.).
+- **Narzissten-Regel:** Wer die Sonne im 4. oder 7. Haus hat (oder Venus bzw. Mond im Aspekt zur Sonne) und in Familie oder Ehe nicht „der Star“ ist, hat laut Leyla „alle Chancen“, einem Narzissten zu begegnen. Man dürfe keine Angst haben, egoistisch zu wirken ([TG 2025-11-23](https://t.me/Leyla_Astro2/3084)). Im selben Post betont sie: Alle Beziehungsprobleme seien zwar in der Karte angelegt, hingen aber vollständig von einem selbst ab. Im Plus kommt statt eines Narzissten „ein strahlender Mann, der einen sieht“ (ebd.). Im Minus „fällt die Sonne in den Uranus“, das heißt Leere, Kälte und Distanz (ebd.).
 
 *→ Für die 21-Jährige:*
 - Nach Leyla ist das **Zünden der Waage-Sonne die Baustelle Nummer 1**, vor Liebe und Geld.
@@ -316,7 +350,7 @@ Der Mond hat vier Aspekte: □ Venus, □ Mars, ⚹ Jupiter, △ Pluto. Das ist 
 - **Funktion:** Merkur ist Verstand und Denken. Er bestimmt, **was** man sagen will. **Wie** es klingt, zeigen Dispositor und Aspekte ([TG 2025-12-10](https://t.me/Leyla_Astro2/3110)). Er arbeitet nur mit voller Kraft, wenn die Sonne brennt und der Mond harmonisch ist ([TG 2024-01-10](https://t.me/Leyla_Astro2/722)). Er ist das „Tor zum Unterbewussten“: zuerst Merkur reinigen (Tage ohne Informationen, Informationen filtern), dann den Mond ([TG 2025-06-18](https://t.me/Leyla_Astro2/2805)).
 - **Merkur ☌ Sonne:** Talent zum Schreiben und Reden, Menschen mit Worten mitreißen, motivieren, verkaufen ([TG 2025-12-10](https://t.me/Leyla_Astro2/3110)).
 - **Merkur △ Neptun:**
-  - Talent, mit Worten zu „verzaubern“ und über feine, geistige Dinge zu sprechen ([TG 2025-12-10](https://t.me/Leyla_Astro2/3110)).
+  - Talent, zu „täuschen“ (laut Leyla „nicht immer schlecht“), mit Worten zu „verzaubern“ und über feine, geistige Dinge zu sprechen ([TG 2025-12-10](https://t.me/Leyla_Astro2/3110)).
   - Minus: Gedankenchaos ([TG 2025-06-18](https://t.me/Leyla_Astro2/2805)).
   - Glück bei Auto, Ausbildung und Reisen: „Wünsch es dir, und es kommt“ ([TG 2026-03-17](https://t.me/Leyla_Astro2/3352)).
 - **Merkur und Venus:** Bei einem Merkur–Venus-Bezug kommen die klügsten Gedanken **im Dialog** ([TG 2025-01-15](https://t.me/Leyla_Astro2/2257)).
@@ -426,8 +460,9 @@ Zusätzlich gilt: Beziehungen tragen „nicht so sehr auf der Sonne, sondern auf
   - Beim Handeln (Mars) aufhören, alles abzuwägen, und sich nicht vor Partnern verbiegen.
   - Opposition und Quadrat sind kein Unheil, sondern ein „Aufruf zum Handeln“.
 - **Opposition zu Mars:** Man tut wirklich viel, oft aber ins Leere, ohne Ergebnis ([TG 2025-04-22](https://t.me/Leyla_Astro2/2566)).
-- **„Alles allein“:** Mars-Aspekte zu Venus, Mond oder Sonne (meist Opposition oder Konjunktion) machen Frauen zum „Stöpsel in jedem Fass“. Sie machen alles selbst und können nicht um Hilfe bitten ([TG 2024-11-02](https://t.me/Leyla_Astro2/1946)). Bei Opposition zu Mars oder Pluto ist **Delegieren** zu lernen ([TG 2025-02-02](https://t.me/Leyla_Astro2/2323), [TG 2026-05-23](https://t.me/Leyla_Astro2/3633)).
-- **„Marsianerinnen“** ziehen in vielen Fällen schwache Männer an oder „töten den Mann im Partner“. Leyla nahm sich bewusst zurück, „seitdem ist er ein Mann“. Das sei korrigierbar ([TG 2024-08-20](https://t.me/Leyla_Astro2/1600)).
+- **„Alles allein“:** Mars-Aspekte zu Venus, Mond oder Sonne (meist Opposition oder Konjunktion) machen Frauen zum „Stöpsel in jedem Fass“. Sie machen alles selbst und können nicht um Hilfe bitten ([TG 2024-11-02](https://t.me/Leyla_Astro2/1946)). Wer Sonne, Mond oder Venus in Opposition oder Konjunktion zu Mars oder Pluto hat, dem fällt es schwer, um Hilfe zu bitten und zu **delegieren**. Dabei gilt: „Wachstum = Delegieren“ ([TG 2026-05-23](https://t.me/Leyla_Astro2/3633)).
+- **„Marsianerinnen“:** Leyla zählt dazu Frauen mit Mars in Opposition zu Sonne oder Mond („manchmal“ auch zur Venus), mit Mars-Konjunktion oder mit harmonischen Mars-Aspekten im Minus. Solche Frauen, schreibt sie, ziehen oft eher schwache Männer an oder lassen dem Partner keinen Raum, „Mann zu sein“. Leyla nahm sich bewusst zurück, „seitdem ist er ein Mann“. Ihr Fazit: Das ist korrigierbar, man muss nur das Minus ins Plus bringen ([TG 2024-08-20](https://t.me/Leyla_Astro2/1600)).
+  - *→ Für die 21-Jährige:* Venus ☍ Mars fällt nur unter das „manchmal“. Mond □ Mars steht nicht auf dieser Liste. Das ist also eine Möglichkeit, keine feste Folge.
 - **Venus im Minus wird zum Mars:** Vorwürfe, Dreistigkeit, Unersättlichkeit ([TG 2023-12-04](https://t.me/Leyla_Astro2/620), [TG 2026-03-10](https://t.me/Leyla_Astro2/3308)).
 - **Talent:** Handwerk, etwas hell und schön machen, Freunde und Partner motivieren ([TG 2025-12-19](https://t.me/Leyla_Astro2/3125)).
 - **Schönheitsoperationen:** Bei der Venus–Mars-Opposition rät Leyla zur Vorsicht ([TG 2025-02-02](https://t.me/Leyla_Astro2/2323)).
@@ -446,7 +481,7 @@ Zusätzlich gilt: Beziehungen tragen „nicht so sehr auf der Sonne, sondern auf
 ### 6.5 Venus □ Neptun
 
 **Leyla sagt:**
-- **Wen man trifft:** Lügner, Doppelzüngige und Abhängige begegnen denen, die „Neptun kennenlernen“ müssen, etwa bei Venus im Quadrat zu Neptun ([TG 2025-06-04](https://t.me/Leyla_Astro2/2740)).
+- **Wen man treffen kann:** Laut Leyla begegnen Lügner, Doppelzüngige und Abhängige vor allem denen, die „Neptun kennenlernen“ müssen, etwa bei Venus im Quadrat zu Neptun ([TG 2025-06-04](https://t.me/Leyla_Astro2/2740)). Das ist eine Lernaufgabe, kein Urteil: Wer Neptun im Plus lebt, zieht nach Leyla stattdessen einen Mann an, der einen tief spürt ([TG 2025-11-23](https://t.me/Leyla_Astro2/3084)).
 - **Minus und Plus:** Im Minus Täuschung und Untreue, im Plus „ein Mann, der sie und ihre Gefühle tief spürt“ ([TG 2025-11-23](https://t.me/Leyla_Astro2/3084)).
 - **Annahme:** Bei Neptun-Aspekten auf die Venus soll man „vollständige gegenseitige Annahme“ leben ([TG 2024-06-06](https://t.me/Leyla_Astro2/1317)).
 - **Quadrat = Mangel:** Neptun-Energie bewusst und gesund hinzufügen ([TG 2026-09-07](https://t.me/Leyla_Astro2/4056)). Ihre Mittel dafür: Wasser aller Art, Fotografie, Malen, Meditation ([TG 2024-12-12](https://t.me/Leyla_Astro2/2125)).
@@ -464,7 +499,8 @@ Zusätzlich gilt: Beziehungen tragen „nicht so sehr auf der Sonne, sondern auf
 - **Plus:** mehr Romanzen, große und elitäre Projekte, gern mit Ausland oder im VIP-Bereich ([TG 2025-08-21](https://t.me/Leyla_Astro2/2895)).
 - **Minus:** viele leere Liebschaften, auch mit **Angebern** (ebd.).
 - **Wo Jupiter steht, soll man begründet „angeben“:** Im 5. Haus sind das Projekte, Kreativität und Liebe, etwa mit großzügigen Partnern oder glänzenden Auftritten ([TG 2026-03-24, Bild 3](https://t.me/Leyla_Astro2/3418)).
-- **Partner zum Aufschauen:** Jupiterianerinnen brauchen einen Partner, zu dem sie mit Stolz aufsehen. Mit einem „einfacheren“ Mann zerfleischen sich beide mit Nörgeleien ([TG 2024-12-20](https://t.me/Leyla_Astro2/2159)).
+- **Nicht einfacher werden:** Wer Jupiter-Aspekte zu Sonne oder Mond hat, soll auf keinen Fall versuchen, „einfacher“ zu werden ([TG 2024-12-20](https://t.me/Leyla_Astro2/2159)).
+- **Partner zum Aufschauen:** Im selben Post beschreibt Leyla für **Venus □ Jupiter**, dass man mit einem „einfacheren“ Mann in gegenseitige Nörgeleien gerät und einen Partner braucht, zu dem man mit Stolz aufsieht (ebd.). Diesen Aspekt hat das Horoskop nicht; die Übertragung auf Mond ⚹ Jupiter ist (abgeleitet) und schwächer.
 
 *→ Für die 21-Jährige:* Sie soll in der Liebe auf **Niveau** achten. „Show“-Partner sind laut Leyla das Minus dieses Jupiters.
 
@@ -556,7 +592,7 @@ Zusätzlich gilt: Beziehungen tragen „nicht so sehr auf der Sonne, sondern auf
 4. **Für Fortgeschrittene:** das Zeichen des Mars-Dispositors.
 
 **Ergänzungen:**
-- Mond oder Venus im Skorpion bzw. im Aspekt zu Mars oder Pluto: ohne Kraftraum geht es nicht. Mond oder Venus im Löwen bzw. im Aspekt zueinander: Tanz ([TG 2026-03-01](https://t.me/Leyla_Astro2/3247)).
+- In einem Post übers **Abnehmen** schreibt Leyla: Mond oder Venus im Skorpion bzw. im Aspekt zu Mars oder Pluto, dann geht es nicht ohne Kraftraum. Mond oder Venus im Löwen bzw. im Aspekt zueinander, dann Tanz ([TG 2026-03-01](https://t.me/Leyla_Astro2/3247)).
 - Bei viel Mars-Energie **und** Neptun-Spannung ist **Aquafitness** Leylas „Lifehack“ ([TG 2024-12-12](https://t.me/Leyla_Astro2/2125), [TG 2023-09-21](https://t.me/Leyla_Astro2/359)).
 
 *→ Für die 21-Jährige:*
@@ -629,7 +665,8 @@ Ihr Rat zum Autofahren („ordentlich Gas geben“) wird hier bewusst nicht übe
   - Ergebnis: stabiler Wohlstand, **„besonders nach 30“**.
   - „Saturn im 2. Haus heißt Armut“ nennt sie einen Schreckensmythos ([TG 2026-07-12](https://t.me/Leyla_Astro2/3856), [TG 2024-12-26](https://t.me/Leyla_Astro2/2171)).
   - Ein Planet im 2. Haus wirkt erst, **wenn das Geld schon da ist**. Probleme beim Verdienen selbst sind eine Frage an den Herrscher des 2. Hauses ([TG 2026-07-09](https://t.me/Leyla_Astro2/3843)).
-- **Herrscher des 8. Hauses im 2. Haus:** Ohne eigenes Geld kommt man nicht an fremde Ressourcen und große Summen ([TG 2025-09-23](https://t.me/Leyla_Astro2/2951)).
+- **Achse 2. und 8. Haus:** Für alle gilt nach Leyla: Ohne eigenes Geld (2. Haus) kommt man nicht an fremde Ressourcen und große Summen (8. Haus) ([TG 2025-09-23](https://t.me/Leyla_Astro2/2951)).
+  - *→ Für die 21-Jährige:* Hier steht Saturn, der Herrscher des 8. Hauses, sogar im 2. Haus. Die Kopplung ist dadurch besonders deutlich. (abgeleitet)
 
 ⚠️ **Widerspruch Sparen vs. Ausgeben – bei ihr offen:**
 - **Für Sparen spricht:**
@@ -652,7 +689,8 @@ Ihr Rat zum Autofahren („ordentlich Gas geben“) wird hier bewusst nicht übe
 
 **Leyla sagt:**
 - **Venus = Finanzkapazität:** Sie ist die psychologische Fähigkeit, Geld zu empfangen. Ohne Venus-Arbeit wirkt auch das 2. Haus nicht. Man beginnt die Geldarbeit deshalb an der Venus ([TG 2024-01-12](https://t.me/Leyla_Astro2/734), [TG 2025-04-07](https://t.me/Leyla_Astro2/2528), [TG 2026-05-27](https://t.me/Leyla_Astro2/3652)).
-- **Venus im 5. Haus = schnelles Geld,** wenn man auf die Bühne geht: Feste organisieren, „märchenhafte Fotoshootings“, Partys. Auch unerwartete Preise für Talent sind möglich ([TG 2026-03-27, Bild 3](https://t.me/Leyla_Astro2/3434)). Bei einer Krebs-Spitze am 2. Haus bleibt das eine Zusatzquelle, keine dauerhafte (ebd.).
+- **Venus im 5. Haus = schnelles Geld,** wenn man auf die Bühne geht: Feste organisieren, „märchenhafte Fotoshootings“, Partys. Auch unerwartete Preise für Talent sind möglich ([TG 2026-03-27, Bild 3](https://t.me/Leyla_Astro2/3434)). Das Haus der Venus bringt laut Leyla schnelles Geld, **außer** die Venus beherrscht das 2. Haus (2. Haus in Stier oder Waage). Dann kann es eine Dauerquelle werden (ebd.).
+  - *→ Für die 21-Jährige:* Ihr 2. Haus liegt im Krebs, die Venus beherrscht es nicht. Das 5. Haus bleibt deshalb eher eine Zusatzquelle. (abgeleitet)
 - **Venus im Skorpion:**
   - Sie will „verdammt viel Geld“, für Kleingeld rührt sie sich nicht ([TG 2023-12-30](https://t.me/Leyla_Astro2/709)).
   - Sie verdient oft erst, wenn es „brennt“ ([TG 2025-12-27](https://t.me/Leyla_Astro2/3129)).
@@ -671,8 +709,13 @@ Ihr Rat zum Autofahren („ordentlich Gas geben“) wird hier bewusst nicht übe
 ⚠️ **Unklar bei Venus □ Neptun:**
 - Leyla rät bei Neptun-Kontakt zur Venus, das eigene Einkommen nicht wahrheitsgemäß zu nennen, sondern zu **verschweigen oder kleinzureden**.
 - „Übertreiben“ sei dagegen erlaubt, wenn Venus oder das 2. Haus mit Jupiter oder Sonne verbunden ist ([TG 2024-05-16](https://t.me/Leyla_Astro2/1236)).
-- Hier ist nur der Herrscher des 2. Hauses (Mond) mit Jupiter verbunden. Welche Regel gilt, lässt ihre Aussage offen.
-- *Vorsichtige Lesart:* über Einkommen eher **nicht reden**.
+- Leylas Wortlaut ist weit: Venus oder 2. Haus „irgendwie“ mit Jupiter **oder** Sonne verbunden ([TG 2024-05-16](https://t.me/Leyla_Astro2/1236)).
+- *→ Für die 21-Jährige (abgeleitet):* Mehrere Verbindungen sind da.
+  - Das 2. Haus liegt fast ganz im Löwen, und der Löwe gehört der Sonne.
+  - Saturn im 2. Haus steht ⚹ Sonne.
+  - Der Herrscher des 2. Hauses (Mond) steht ⚹ Jupiter.
+  - Nach Leylas Regel spricht das eher für **„aufwerten ist erlaubt“** als für Verschweigen. Nur die Wahrheit zu sagen, ist nach ihr bei Venus–Neptun in keinem Fall der Rat.
+  - Eine direkte Verbindung der Venus selbst zu Jupiter oder Sonne gibt es nicht. Ganz eindeutig ist es daher nicht.
 
 *→ Für die 21-Jährige:*
 - Ihr Geldhebel ist die **Arbeit an der Skorpion-Venus**: hohe Ziele, regelmäßige Erneuerung, Ästhetik, Bühne.
@@ -728,7 +771,7 @@ Ihr Rat zum Autofahren („ordentlich Gas geben“) wird hier bewusst nicht übe
   - In den Themen seines Hauses muss man begründet „angeben“, sonst wird man dort abgewertet.
   - Kumpelhaftigkeit statt Autorität ist sein Minus (ebd.).
   - Auch das Haus, das Jupiter beherrscht, soll man groß und ambitioniert leben ([TG 2025-11-27](https://t.me/Leyla_Astro2/3085)).
-- **Pluto im Haus:** verlangt dort **gesunde Dreistigkeit** ([TG 2026-07-18, Bild 1](https://t.me/Leyla_Astro2/3927)). Ohne sie würgen einen die Umstände, man wird ausgenutzt, „Vampire“ werden angezogen.
+- **Pluto im Haus:** verlangt dort **gesunde Dreistigkeit** ([TG 2026-07-18, Bild 1](https://t.me/Leyla_Astro2/3927)). Fehlt sie, können einen die Umstände laut Leyla einengen, und man läuft Gefahr, ausgenutzt zu werden.
 - **Pluto im 6. Haus** ([TG 2026-07-18, Bild 4](https://t.me/Leyla_Astro2/3927), [TG 2026-05-30](https://t.me/Leyla_Astro2/3660)):
   - Eine Arbeit, die **mehr nimmt als gibt**, ohne Bedauern wechseln.
   - Gegenüber Mitarbeitenden Härte zeigen und die Messlatte hoch legen.
@@ -754,7 +797,7 @@ Ihr Rat zum Autofahren („ordentlich Gas geben“) wird hier bewusst nicht übe
 - **Jupiterianerin:** Jupiter-Aspekte zu den Lichtern. Ambition, Status, Expertise, „begründetes Angeben“ ([TG 2026-01-31](https://t.me/Leyla_Astro2/3180)).
 - **Führung:** Mindestens 3 Hinweise wünschenswert, z. B. Sonne oder Mond im Aspekt zu Jupiter oder Saturn, Lichter im 9. oder 10. Haus ([TG 2026-02-08](https://t.me/Leyla_Astro2/3204)).
 - **Zweiter Beruf:** Bei Sonne–Neptun soll man sich einen weiteren Beruf wünschen ([TG 2025-02-02](https://t.me/Leyla_Astro2/2323)).
-- **Lehrtalent:** Mond–Jupiter ist „die Grundlage meines absoluten Lehrtalents“, sagt Leyla über sich ([TG 2025-12-06](https://t.me/Leyla_Astro2/3103)).
+- **Lehrtalent:** Mond–Jupiter gibt laut Leyla das Talent zum Unterrichten ([TG 2025-12-13](https://t.me/Leyla_Astro2/3113)). Ihr eigenes Lehrtalent führt sie auf mehrere Faktoren zusammen zurück: Mond ⚹ Jupiter, Sonne △ Jupiter, Mond im 9. Haus und Sonne im Schützen ([TG 2025-12-06](https://t.me/Leyla_Astro2/3103)). Die 21-Jährige hat davon nur den ersten. Das Talent ist bei ihr also angelegt, aber weniger stark gebündelt als bei Leyla.
 - **Verkauf und Werbung bei 5. Haus Waage:** delegieren, Preis etwas höher ansetzen mit „Verhandlungsbasis“, ästhetische Fotos ([TG 2025-02-27](https://t.me/Leyla_Astro2/2382)).
 
 ⚠️ **Plutonistin – Schwelle uneinheitlich:**
@@ -781,7 +824,8 @@ Ihr Rat zum Autofahren („ordentlich Gas geben“) wird hier bewusst nicht übe
 **Leyla sagt** (Bild 4, übersetzt):
 - **Südknoten in der Waage (Gepäck):** Dialoge aufbauen, Kontaktfreude, Diplomatie, sich einigen, Kompromisse finden. Teamarbeit, indem man anderen gefällt. „Ein idealer Partner, aber abhängig von fremder Meinung.“
 - **Nordknoten im Widder (Aufgabe):** Initiative lernen, **führen statt folgen**, selbstständig werden, sich selbst verwirklichen. Keine Angst vor Konflikten haben, eigene Prinzipien verteidigen. **Aufhören, es anderen recht zu machen** und von fremder Meinung abzuhängen.
-- **„Preis bei Nichterfüllung“** (Leylas Wort): Krisen in Beziehungen, mögliche Trennungen, Streitfälle, Konkurrenz. Das sind Situationen, die einen zwingen, sich zu verteidigen.
+- **„Preis bei Nichterfüllung“** (Leylas Wort): Krisen in Beziehungen, mögliche Trennungen, Streitfälle, Konkurrenz. Gemeint sind Situationen, die einen zwingen, sich zu verteidigen.
+- *Einordnung:* Das beschreibt Leyla als möglichen Weg, auf dem das Leben die Lektion nachholt, nicht als feste Vorhersage. Sie betont, dass sich jede Stellung ins Plus bringen lässt ([TG 2026-07-01](https://t.me/Leyla_Astro2/3783)). Wer die Aufgabe freiwillig angeht, braucht diesen Umweg nicht.
 
 **Leylas Einordnung dazu:**
 - **Die Seelenaufgabe ist „NICHT die erste Aufgabe“.** Zuerst soll man sich mit der Karte anfreunden ([TG 2026-05-10](https://t.me/Leyla_Astro2/3595), Begleittext):
@@ -793,11 +837,11 @@ Ihr Rat zum Autofahren („ordentlich Gas geben“) wird hier bewusst nicht übe
   Danach „ergibt sich alles von selbst“.
 - **Der Nordknoten ist „nur eine Richtung“.** Ihr Beispiel: Wie soll man zum Nordknoten im Widder kommen, wenn man (z. B. bei Sonne □ Mars) keine Energie für Initiative hat? Die Bestimmung hängt an Selbstwert, Verwirklichung, Geld und der ganzen Karte ([TG 2026-07-24](https://t.me/Leyla_Astro2/3943)).
 - **Den Südknoten nicht aufgeben:** Dass man ihn aufgeben müsse, zählt sie zu den Mythen. Ausgeführt ist das nur im Stream ([TG 2026-07-25](https://t.me/Leyla_Astro2/3949)).
-- **Die Theorie vom „direkten Knoten“ greift hier nicht** ([TG 2026-05-14](https://t.me/Leyla_Astro2/3603)). Sie gilt nur für direktläufige Knoten, und dieser ist **rückläufig**, also der Normalfall.
+- **Die Theorie vom „direkten Knoten“ greift hier nicht** ([TG 2026-05-14](https://t.me/Leyla_Astro2/3603)). Sie gilt nur für direktläufige Knoten. Dieser Knoten ist laut Horoskopdaten **rückläufig**, also der Normalfall.
 - **Keine Aussage gefunden** zu Knoten im 11. Haus, zu Knoten ☍ Sonne/Merkur und zu Knoten □ ASC. Leyla kündigt Posts zu „Häusern der Knoten und Konjunktionen mit Planeten“ nur an (Begleittext 3595).
 
 *→ Für die 21-Jährige:*
-- Ihr „Gepäck“ (Diplomatie, Gefallen-Wollen) ist **genau die Waage-Energie** ihrer Sonne und ihres Merkurs.
+- Ihr „Gepäck“ (Diplomatie, Gefallen-Wollen) entspricht der Waage-Energie ihrer Sonne und ihres Merkurs. (abgeleitet)
 - Die Aufgabe: **vom Gefallen-Wollen zur eigenen Initiative.**
 - Nach Leylas Logik (abgeleitet) führt der Weg zum Widder-Knoten über ihren **Mars**. Mars beherrscht den Widder und steht mit dem Knoten im 11. Haus. Mars stärken, dann ist der Knoten erreichbar.
 
@@ -812,7 +856,7 @@ Ihr Rat zum Autofahren („ordentlich Gas geben“) wird hier bewusst nicht übe
 - **Seelenaufgabe:** In einem Beispiel zwingen die Umstände jemanden „nach 35“, die geplante Fähigkeit zu lernen ([TG 2026-05-10](https://t.me/Leyla_Astro2/3595)). Das ist ein Beispiel für eine andere Knotenachse, keine allgemeine Altersregel.
 - **„Wollt ihr so 20, 30, 40 Jahre leben?“** fragt sie Frauen, die „sich selbst der Ehemann“ sind ([TG 2024-12-10](https://t.me/Leyla_Astro2/2116)).
 - **Neptun-Post für alle, „die immer noch nicht wissen, was sie werden wollen“:** Unklarheit über Identität und Weg ist ein Neptun-Minus. Wasser, Fotografie, Malen und Meditation helfen ([TG 2024-12-12](https://t.me/Leyla_Astro2/2125)).
-- **Lernen:** Mit Mond–Jupiter-Bezug lernt man nur bei Lehrenden, die man als Autorität anerkennt ([TG 2024-12-12, Bild 1](https://t.me/Leyla_Astro2/2120)).
+- **Lernen:** In einem Post über **Kinderhoroskope** schreibt Leyla: Ein Kind mit Mond im Schützen, im Aspekt zu Jupiter oder im 9. Haus lernt nicht, wenn der Lehrer keine Autorität für es ist ([TG 2024-12-12](https://t.me/Leyla_Astro2/2120)). Die Übertragung auf eine Erwachsene im Studium ist (abgeleitet).
 - **9-Jahres-Rhythmus:** 2026 wiederhole „zu 90 %“ die Themen von 2017 und 2008 ([TG 2026-01-23](https://t.me/Leyla_Astro2/3158)).
 - **Beziehungen:** nicht nach dem Muster von Mutter oder Freundinnen bauen ([TG 2024-02-09](https://t.me/Leyla_Astro2/881)).
 
@@ -861,13 +905,13 @@ Ihr Rat zum Autofahren („ordentlich Gas geben“) wird hier bewusst nicht übe
 - **Investiere in Bildung.** Bei dir kommt das Geld zurück ([TG 2025-02-19](https://t.me/Leyla_Astro2/2362)).
 - **Verdiene dort, wo dein Mond steht:** Kommunikation, Texte, Lernen, Austausch ([TG 2024-12-11](https://t.me/Leyla_Astro2/2117)).
 - **Geld lieben ist für dich normal.** Schäm dich nicht dafür ([TG 2024-09-21](https://t.me/Leyla_Astro2/1710)).
-- **Bei Verträgen:** vertrauen, aber prüfen. Über dein Einkommen redest du besser nicht ([TG 2024-11-21](https://t.me/Leyla_Astro2/2032), [TG 2024-05-16](https://t.me/Leyla_Astro2/1236)).
+- **Bei Verträgen:** vertrauen, aber prüfen. Dein Einkommen nennst du nicht eins zu eins; nach Leylas Regel darfst du es eher aufwerten als kleinreden ([TG 2024-11-21](https://t.me/Leyla_Astro2/2032), [TG 2024-05-16](https://t.me/Leyla_Astro2/1236)).
 
 **Liebe**
 - **Sei nicht „das Mädchen in rosa Rüschen“.** Deine Venus will Tiefe und Leidenschaft ([TG 2025-04-23](https://t.me/Leyla_Astro2/2568)).
 - **Verändere regelmäßig deinen Look** ([TG 2025-12-17](https://t.me/Leyla_Astro2/3115)).
 - **Lass dich versorgen,** nimm an, bitte um Hilfe ([TG 2025-11-23](https://t.me/Leyla_Astro2/3084)).
-- **Sei in deiner Beziehung der Star**, sonst kommen Narzissten (ebd.).
+- **Sei in deiner Beziehung der Star.** Wer sich klein macht, riskiert laut Leyla eher, an Narzissten zu geraten. Wer leuchtet, zieht einen Mann an, der sie sieht (ebd.).
 - **Vor der Ehe:** Rollen und Pflichten absprechen, eigenen Rückzugsraum einplanen, nichts überstürzen ([TG 2026-07-12](https://t.me/Leyla_Astro2/3849)).
 
 **Sichtbarkeit**
@@ -908,7 +952,7 @@ Ihr Rat zum Autofahren („ordentlich Gas geben“) wird hier bewusst nicht übe
 
 Alle Quellen sind Posts im Telegram-Kanal [@Leyla_Astro2](https://t.me/Leyla_Astro2). Die Bilder stammen aus den Karussells derselben Posts. Grundlage sind die Fundlisten der Leyla-Recherche (Texte und Bilder) und [leyla-mars.md](leyla-mars.md). Unklare Stellen haben wir im Original geprüft (Post 3595, Bild 4; Posts 579, 1745, 2855, 3124, 3242, 3298, 3603, 3943, 3949, 4056, 4161).
 
-**211 Posts** (sortiert nach Post-Nummer; Titel = erste Zeile des Posts, russisch):
+**210 Posts** (sortiert nach Post-Nummer; Titel = erste Zeile des Posts, russisch):
 
 - [TG 2023-04-17](https://t.me/Leyla_Astro2/247) – Сатурн в доме дает негатив и ограничивает⁣⁣⠀
 - [TG 2023-04-25](https://t.me/Leyla_Astro2/253) – Что происходит, если …⁣⁣⠀
@@ -955,7 +999,6 @@ Alle Quellen sind Posts im Telegram-Kanal [@Leyla_Astro2](https://t.me/Leyla_Ast
 - [TG 2024-09-21](https://t.me/Leyla_Astro2/1710) – Самые меркантильные знаки 
 - [TG 2024-09-23](https://t.me/Leyla_Astro2/1712) – Показатели на полноту в натальной карте 
 - [TG 2024-09-26](https://t.me/Leyla_Astro2/1745) – Транжира 
-- [TG 2024-10-11](https://t.me/Leyla_Astro2/1845) – «Ни горячо, ни холодно» …
 - [TG 2024-10-11](https://t.me/Leyla_Astro2/1853) – Женщина-удача 🍀
 - [TG 2024-10-15](https://t.me/Leyla_Astro2/1860) – Вот вам пожалуйста разница между асцендентом в Весах (аристократизм и 
 - [TG 2024-10-15](https://t.me/Leyla_Astro2/1867) – Плутонисткам посвящается ❤️
